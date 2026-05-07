@@ -1,0 +1,5307 @@
+{
+  "standard": null,
+  "component": null,
+  "units": {
+    "diameter": "mm",
+    "construction_dimension_L": "mm",
+    "angle_max": "degree",
+    "wall_thickness": "mm",
+    "weight": "kg",
+    "pressure_factor": "%"
+  },
+  "entries": [
+    {
+      "DN": "20 x 15",
+      "dimensions": {
+        "D": 26.9,
+        "D1": 21.3,
+        "L": 38,
+        "angle_max": 15
+      },
+      "variants": [
+        {
+          "reihe": 1,
+          "T": null,
+          "T1": null,
+          "pressure_factor": null,
+          "kg": null
+        },
+        {
+          "reihe": 2,
+          "T": 2.3,
+          "T1": 2.0,
+          "pressure_factor": 100,
+          "kg": 0.05
+        },
+        {
+          "reihe": 3,
+          "T": 2.6,
+          "T1": 2.6,
+          "pressure_factor": 100,
+          "kg": 0.05
+        },
+        {
+          "reihe": 4,
+          "T": 3.2,
+          "T1": 3.2,
+          "pressure_factor": 100,
+          "kg": 0.06
+        },
+        {
+          "reihe": 5,
+          "T": 4.0,
+          "T1": 4.0,
+          "pressure_factor": 100,
+          "kg": 0.08
+        },
+        {
+          "reihe": 6,
+          "T": null,
+          "T1": null,
+          "pressure_factor": null,
+          "kg": null
+        },
+        {
+          "reihe": 7,
+          "T": 5.6,
+          "T1": 5.0,
+          "pressure_factor": 100,
+          "kg": 0.1
+        },
+        {
+          "reihe": 8,
+          "T": 8.0,
+          "T1": 7.1,
+          "pressure_factor": 100,
+          "kg": 0.12
+        }
+      ]
+    },
+    {
+      "DN": "25 x 20",
+      "dimensions": {
+        "D": 33.7,
+        "D1": 26.9,
+        "L": 51,
+        "angle_max": 13
+      },
+      "variants": [
+        {
+          "reihe": 1,
+          "T": null,
+          "T1": null,
+          "pressure_factor": null,
+          "kg": null
+        },
+        {
+          "reihe": 2,
+          "T": 2.6,
+          "T1": 2.3,
+          "pressure_factor": 100,
+          "kg": 0.09
+        },
+        {
+          "reihe": 3,
+          "T": 3.2,
+          "T1": 2.6,
+          "pressure_factor": 100,
+          "kg": 0.11
+        },
+        {
+          "reihe": 4,
+          "T": 4.0,
+          "T1": 3.2,
+          "pressure_factor": 100,
+          "kg": 0.13
+        },
+        {
+          "reihe": 5,
+          "T": 4.5,
+          "T1": 4.0,
+          "pressure_factor": 100,
+          "kg": 0.14
+        },
+        {
+          "reihe": 6,
+          "T": 5.6,
+          "T1": 4.5,
+          "pressure_factor": 100,
+          "kg": 0.17
+        },
+        {
+          "reihe": 7,
+          "T": 6.3,
+          "T1": 5.6,
+          "pressure_factor": 100,
+          "kg": 0.19
+        },
+        {
+          "reihe": 8,
+          "T": 8.8,
+          "T1": 8.0,
+          "pressure_factor": 100,
+          "kg": 0.24
+        }
+      ]
+    },
+    {
+      "DN": "25 x 15",
+      "dimensions": {
+        "D": 33.7,
+        "D1": 21.3,
+        "L": 51,
+        "angle_max": 24
+      },
+      "variants": [
+        {
+          "reihe": 1,
+          "T": null,
+          "T1": null,
+          "pressure_factor": null,
+          "kg": null
+        },
+        {
+          "reihe": 2,
+          "T": 2.6,
+          "T1": 2.0,
+          "pressure_factor": 100,
+          "kg": 0.09
+        },
+        {
+          "reihe": 3,
+          "T": 3.2,
+          "T1": 2.6,
+          "pressure_factor": 100,
+          "kg": 0.11
+        },
+        {
+          "reihe": 4,
+          "T": 4.0,
+          "T1": 3.2,
+          "pressure_factor": 100,
+          "kg": 0.13
+        },
+        {
+          "reihe": 5,
+          "T": 4.5,
+          "T1": 4.0,
+          "pressure_factor": 100,
+          "kg": 0.14
+        },
+        {
+          "reihe": 6,
+          "T": null,
+          "T1": null,
+          "pressure_factor": null,
+          "kg": null
+        },
+        {
+          "reihe": 7,
+          "T": 6.3,
+          "T1": 5.0,
+          "pressure_factor": 100,
+          "kg": 0.19
+        },
+        {
+          "reihe": 8,
+          "T": 8.8,
+          "T1": 7.1,
+          "pressure_factor": 100,
+          "kg": 0.24
+        }
+      ]
+    },
+    {
+      "DN": "32 x 25",
+      "dimensions": {
+        "D": 42.4,
+        "D1": 33.7,
+        "L": 51,
+        "angle_max": 16
+      },
+      "variants": [
+        {
+          "reihe": 1,
+          "T": null,
+          "T1": null,
+          "pressure_factor": null,
+          "kg": null
+        },
+        {
+          "reihe": 2,
+          "T": 2.6,
+          "T1": 2.6,
+          "pressure_factor": 100,
+          "kg": 0.12
+        },
+        {
+          "reihe": 3,
+          "T": 3.6,
+          "T1": 3.2,
+          "pressure_factor": 100,
+          "kg": 0.16
+        },
+        {
+          "reihe": 4,
+          "T": 4.0,
+          "T1": 4.0,
+          "pressure_factor": 100,
+          "kg": 0.17
+        },
+        {
+          "reihe": 5,
+          "T": 5.0,
+          "T1": 4.5,
+          "pressure_factor": 100,
+          "kg": 0.21
+        },
+        {
+          "reihe": 6,
+          "T": 6.3,
+          "T1": 5.6,
+          "pressure_factor": 100,
+          "kg": 0.25
+        },
+        {
+          "reihe": 7,
+          "T": 8.0,
+          "T1": 6.3,
+          "pressure_factor": 100,
+          "kg": 0.3
+        },
+        {
+          "reihe": 8,
+          "T": 10.0,
+          "T1": 8.8,
+          "pressure_factor": 100,
+          "kg": 0.36
+        }
+      ]
+    },
+    {
+      "DN": "32 x 20",
+      "dimensions": {
+        "D": 42.4,
+        "D1": 26.9,
+        "L": 51,
+        "angle_max": 30
+      },
+      "variants": [
+        {
+          "reihe": 1,
+          "T": null,
+          "T1": null,
+          "pressure_factor": null,
+          "kg": null
+        },
+        {
+          "reihe": 2,
+          "T": 2.6,
+          "T1": 2.3,
+          "pressure_factor": 100,
+          "kg": 0.11
+        },
+        {
+          "reihe": 3,
+          "T": 3.6,
+          "T1": 2.6,
+          "pressure_factor": 100,
+          "kg": 0.14
+        },
+        {
+          "reihe": 4,
+          "T": 4.0,
+          "T1": 3.2,
+          "pressure_factor": 100,
+          "kg": 0.16
+        },
+        {
+          "reihe": 5,
+          "T": 5.0,
+          "T1": 4.0,
+          "pressure_factor": 100,
+          "kg": 0.19
+        },
+        {
+          "reihe": 6,
+          "T": 6.3,
+          "T1": 4.5,
+          "pressure_factor": 100,
+          "kg": 0.23
+        },
+        {
+          "reihe": 7,
+          "T": 8.0,
+          "T1": 5.6,
+          "pressure_factor": 100,
+          "kg": 0.27
+        },
+        {
+          "reihe": 8,
+          "T": 10.0,
+          "T1": 8.0,
+          "pressure_factor": 100,
+          "kg": 0.31
+        }
+      ]
+    },
+    {
+      "DN": "32 x 15",
+      "dimensions": {
+        "D": 42.4,
+        "D1": 21.3,
+        "L": 51,
+        "angle_max": 42
+      },
+      "variants": [
+        {
+          "reihe": 1,
+          "T": null,
+          "T1": null,
+          "pressure_factor": null,
+          "kg": null
+        },
+        {
+          "reihe": 2,
+          "T": 2.6,
+          "T1": 2.0,
+          "pressure_factor": 97,
+          "kg": 0.1
+        },
+        {
+          "reihe": 3,
+          "T": 3.6,
+          "T1": 2.6,
+          "pressure_factor": 100,
+          "kg": 0.13
+        },
+        {
+          "reihe": 4,
+          "T": 4.0,
+          "T1": 3.2,
+          "pressure_factor": 100,
+          "kg": 0.14
+        },
+        {
+          "reihe": 5,
+          "T": 5.0,
+          "T1": 4.0,
+          "pressure_factor": 100,
+          "kg": 0.17
+        },
+        {
+          "reihe": 6,
+          "T": null,
+          "T1": null,
+          "pressure_factor": null,
+          "kg": null
+        },
+        {
+          "reihe": 7,
+          "T": 8.0,
+          "T1": 5.0,
+          "pressure_factor": 100,
+          "kg": 0.25
+        },
+        {
+          "reihe": 8,
+          "T": 10.0,
+          "T1": 7.1,
+          "pressure_factor": 100,
+          "kg": 0.28
+        }
+      ]
+    },
+    {
+      "DN": "40 x 32",
+      "dimensions": {
+        "D": 48.3,
+        "D1": 42.4,
+        "L": 64,
+        "angle_max": 8
+      },
+      "variants": [
+        {
+          "reihe": 1,
+          "T": null,
+          "T1": null,
+          "pressure_factor": null,
+          "kg": null
+        },
+        {
+          "reihe": 2,
+          "T": 2.6,
+          "T1": 2.6,
+          "pressure_factor": 100,
+          "kg": 0.18
+        },
+        {
+          "reihe": 3,
+          "T": 3.6,
+          "T1": 3.6,
+          "pressure_factor": 100,
+          "kg": 0.24
+        },
+        {
+          "reihe": 4,
+          "T": 4.0,
+          "T1": 4.0,
+          "pressure_factor": 100,
+          "kg": 0.26
+        },
+        {
+          "reihe": 5,
+          "T": 5.0,
+          "T1": 5.0,
+          "pressure_factor": 100,
+          "kg": 0.32
+        },
+        {
+          "reihe": 6,
+          "T": 6.3,
+          "T1": 6.3,
+          "pressure_factor": 100,
+          "kg": 0.39
+        },
+        {
+          "reihe": 7,
+          "T": 8.0,
+          "T1": 8.0,
+          "pressure_factor": 100,
+          "kg": 0.47
+        },
+        {
+          "reihe": 8,
+          "T": 10.0,
+          "T1": 10.0,
+          "pressure_factor": 100,
+          "kg": 0.56
+        }
+      ]
+    },
+    {
+      "DN": "40 x 25",
+      "dimensions": {
+        "D": 48.3,
+        "D1": 33.7,
+        "L": 64,
+        "angle_max": 19
+      },
+      "variants": [
+        {
+          "reihe": 1,
+          "T": null,
+          "T1": null,
+          "pressure_factor": null,
+          "kg": null
+        },
+        {
+          "reihe": 2,
+          "T": 2.6,
+          "T1": 2.6,
+          "pressure_factor": 100,
+          "kg": 0.16
+        },
+        {
+          "reihe": 3,
+          "T": 3.6,
+          "T1": 3.2,
+          "pressure_factor": 100,
+          "kg": 0.19
+        },
+        {
+          "reihe": 4,
+          "T": 4.0,
+          "T1": 4.0,
+          "pressure_factor": 100,
+          "kg": 0.24
+        },
+        {
+          "reihe": 5,
+          "T": 5.0,
+          "T1": 4.5,
+          "pressure_factor": 100,
+          "kg": 0.29
+        },
+        {
+          "reihe": 6,
+          "T": 6.3,
+          "T1": 5.6,
+          "pressure_factor": 100,
+          "kg": 0.36
+        },
+        {
+          "reihe": 7,
+          "T": 8.0,
+          "T1": 6.3,
+          "pressure_factor": 100,
+          "kg": 0.42
+        },
+        {
+          "reihe": 8,
+          "T": 10.0,
+          "T1": 8.8,
+          "pressure_factor": 100,
+          "kg": 0.5
+        }
+      ]
+    },
+    {
+      "DN": "40 x 20",
+      "dimensions": {
+        "D": 48.3,
+        "D1": 26.9,
+        "L": 64,
+        "angle_max": 28
+      },
+      "variants": [
+        {
+          "reihe": 1,
+          "T": null,
+          "T1": null,
+          "pressure_factor": null,
+          "kg": null
+        },
+        {
+          "reihe": 2,
+          "T": 2.6,
+          "T1": 2.3,
+          "pressure_factor": 100,
+          "kg": 0.15
+        },
+        {
+          "reihe": 3,
+          "T": 3.6,
+          "T1": 2.6,
+          "pressure_factor": 100,
+          "kg": 0.2
+        },
+        {
+          "reihe": 4,
+          "T": 4.0,
+          "T1": 3.2,
+          "pressure_factor": 100,
+          "kg": 0.22
+        },
+        {
+          "reihe": 5,
+          "T": 5.0,
+          "T1": 4.0,
+          "pressure_factor": 100,
+          "kg": 0.26
+        },
+        {
+          "reihe": 6,
+          "T": 6.3,
+          "T1": 4.5,
+          "pressure_factor": 100,
+          "kg": 0.32
+        },
+        {
+          "reihe": 7,
+          "T": 8.0,
+          "T1": 5.6,
+          "pressure_factor": 100,
+          "kg": 0.38
+        },
+        {
+          "reihe": 8,
+          "T": 10.0,
+          "T1": 8.0,
+          "pressure_factor": 100,
+          "kg": 0.44
+        }
+      ]
+    },
+    {
+      "DN": "50 x 40",
+      "dimensions": {
+        "D": 60.3,
+        "D1": 48.3,
+        "L": 76,
+        "angle_max": 13
+      },
+      "variants": [
+        {
+          "reihe": 1,
+          "T": null,
+          "T1": null,
+          "pressure_factor": null,
+          "kg": null
+        },
+        {
+          "reihe": 2,
+          "T": 2.9,
+          "T1": 2.6,
+          "pressure_factor": 100,
+          "kg": 0.28
+        },
+        {
+          "reihe": 3,
+          "T": 3.6,
+          "T1": 3.6,
+          "pressure_factor": 100,
+          "kg": 0.34
+        },
+        {
+          "reihe": 4,
+          "T": 4.0,
+          "T1": 4.0,
+          "pressure_factor": 100,
+          "kg": 0.38
+        },
+        {
+          "reihe": 5,
+          "T": 5.6,
+          "T1": 5.0,
+          "pressure_factor": 100,
+          "kg": 0.52
+        },
+        {
+          "reihe": 6,
+          "T": 7.1,
+          "T1": 6.3,
+          "pressure_factor": 100,
+          "kg": 0.63
+        },
+        {
+          "reihe": 7,
+          "T": 8.8,
+          "T1": 8.0,
+          "pressure_factor": 100,
+          "kg": 0.75
+        },
+        {
+          "reihe": 8,
+          "T": 11.0,
+          "T1": 10.0,
+          "pressure_factor": 100,
+          "kg": 0.9
+        }
+      ]
+    },
+    {
+      "DN": "50 x 32",
+      "dimensions": {
+        "D": 60.3,
+        "D1": 42.4,
+        "L": 76,
+        "angle_max": 20
+      },
+      "variants": [
+        {
+          "reihe": 1,
+          "T": null,
+          "T1": null,
+          "pressure_factor": null,
+          "kg": null
+        },
+        {
+          "reihe": 2,
+          "T": 2.9,
+          "T1": 2.6,
+          "pressure_factor": 100,
+          "kg": 0.27
+        },
+        {
+          "reihe": 3,
+          "T": 3.6,
+          "T1": 3.6,
+          "pressure_factor": 100,
+          "kg": 0.32
+        },
+        {
+          "reihe": 4,
+          "T": 4.0,
+          "T1": 4.0,
+          "pressure_factor": 100,
+          "kg": 0.36
+        },
+        {
+          "reihe": 5,
+          "T": 5.6,
+          "T1": 5.0,
+          "pressure_factor": 100,
+          "kg": 0.48
+        },
+        {
+          "reihe": 6,
+          "T": 7.1,
+          "T1": 6.3,
+          "pressure_factor": 100,
+          "kg": 0.54
+        },
+        {
+          "reihe": 7,
+          "T": 8.8,
+          "T1": 8.0,
+          "pressure_factor": 100,
+          "kg": 0.71
+        },
+        {
+          "reihe": 8,
+          "T": 11.0,
+          "T1": 10.0,
+          "pressure_factor": 100,
+          "kg": 0.84
+        }
+      ]
+    },
+    {
+      "DN": "50 x 25",
+      "dimensions": {
+        "D": 60.3,
+        "D1": 33.7,
+        "L": 76,
+        "angle_max": 29
+      },
+      "variants": [
+        {
+          "reihe": 1,
+          "T": null,
+          "T1": null,
+          "pressure_factor": null,
+          "kg": null
+        },
+        {
+          "reihe": 2,
+          "T": 2.9,
+          "T1": 2.6,
+          "pressure_factor": 100,
+          "kg": 0.24
+        },
+        {
+          "reihe": 3,
+          "T": 3.6,
+          "T1": 3.2,
+          "pressure_factor": 100,
+          "kg": 0.3
+        },
+        {
+          "reihe": 4,
+          "T": 4.0,
+          "T1": 4.0,
+          "pressure_factor": 100,
+          "kg": 0.33
+        },
+        {
+          "reihe": 5,
+          "T": 5.6,
+          "T1": 4.5,
+          "pressure_factor": 100,
+          "kg": 0.44
+        },
+        {
+          "reihe": 6,
+          "T": 7.1,
+          "T1": 5.6,
+          "pressure_factor": 100,
+          "kg": 0.54
+        },
+        {
+          "reihe": 7,
+          "T": 8.8,
+          "T1": 6.3,
+          "pressure_factor": 100,
+          "kg": 0.64
+        },
+        {
+          "reihe": 8,
+          "T": 11.0,
+          "T1": 8.8,
+          "pressure_factor": 100,
+          "kg": 0.75
+        }
+      ]
+    },
+    {
+      "DN": "50 x 20",
+      "dimensions": {
+        "D": 60.3,
+        "D1": 26.9,
+        "L": 76,
+        "angle_max": 36
+      },
+      "variants": [
+        {
+          "reihe": 1,
+          "T": null,
+          "T1": null,
+          "pressure_factor": null,
+          "kg": null
+        },
+        {
+          "reihe": 2,
+          "T": 2.9,
+          "T1": 2.3,
+          "pressure_factor": 98,
+          "kg": 0.23
+        },
+        {
+          "reihe": 3,
+          "T": 3.6,
+          "T1": 2.6,
+          "pressure_factor": 100,
+          "kg": 0.28
+        },
+        {
+          "reihe": 4,
+          "T": 4.0,
+          "T1": 3.2,
+          "pressure_factor": 100,
+          "kg": 0.3
+        },
+        {
+          "reihe": 5,
+          "T": 5.6,
+          "T1": 4.0,
+          "pressure_factor": 100,
+          "kg": 0.41
+        },
+        {
+          "reihe": 6,
+          "T": 7.1,
+          "T1": 4.5,
+          "pressure_factor": 100,
+          "kg": 0.45
+        },
+        {
+          "reihe": 7,
+          "T": 8.8,
+          "T1": 5.6,
+          "pressure_factor": 100,
+          "kg": 0.59
+        },
+        {
+          "reihe": 8,
+          "T": 11.0,
+          "T1": 8.0,
+          "pressure_factor": 100,
+          "kg": 0.69
+        }
+      ]
+    },
+    {
+      "DN": "65 x 50",
+      "dimensions": {
+        "D": 76.1,
+        "D1": 60.3,
+        "L": 89,
+        "angle_max": 15
+      },
+      "variants": [
+        {
+          "reihe": 1,
+          "T": null,
+          "T1": null,
+          "pressure_factor": null,
+          "kg": null
+        },
+        {
+          "reihe": 2,
+          "T": 2.9,
+          "T1": 2.9,
+          "pressure_factor": 100,
+          "kg": 0.42
+        },
+        {
+          "reihe": 3,
+          "T": 3.6,
+          "T1": 3.6,
+          "pressure_factor": 100,
+          "kg": 0.51
+        },
+        {
+          "reihe": 4,
+          "T": 5.6,
+          "T1": 4.0,
+          "pressure_factor": 100,
+          "kg": 0.77
+        },
+        {
+          "reihe": 5,
+          "T": 7.1,
+          "T1": 5.6,
+          "pressure_factor": 100,
+          "kg": 0.96
+        },
+        {
+          "reihe": 6,
+          "T": 8.0,
+          "T1": 7.1,
+          "pressure_factor": 100,
+          "kg": 1.06
+        },
+        {
+          "reihe": 7,
+          "T": 10.0,
+          "T1": 8.8,
+          "pressure_factor": 100,
+          "kg": 1.28
+        },
+        {
+          "reihe": 8,
+          "T": 14.2,
+          "T1": 11.0,
+          "pressure_factor": 100,
+          "kg": 1.69
+        }
+      ]
+    },
+    {
+      "DN": "65 x 40",
+      "dimensions": {
+        "D": 76.1,
+        "D1": 48.3,
+        "L": 89,
+        "angle_max": 27
+      },
+      "variants": [
+        {
+          "reihe": 1,
+          "T": null,
+          "T1": null,
+          "pressure_factor": null,
+          "kg": null
+        },
+        {
+          "reihe": 2,
+          "T": 2.9,
+          "T1": 2.6,
+          "pressure_factor": 100,
+          "kg": 0.38
+        },
+        {
+          "reihe": 3,
+          "T": 3.6,
+          "T1": 3.6,
+          "pressure_factor": 100,
+          "kg": 0.47
+        },
+        {
+          "reihe": 4,
+          "T": 5.6,
+          "T1": 4.0,
+          "pressure_factor": 100,
+          "kg": 0.7
+        },
+        {
+          "reihe": 5,
+          "T": 7.1,
+          "T1": 5.0,
+          "pressure_factor": 100,
+          "kg": 0.87
+        },
+        {
+          "reihe": 6,
+          "T": 8.0,
+          "T1": 6.3,
+          "pressure_factor": 100,
+          "kg": 0.96
+        },
+        {
+          "reihe": 7,
+          "T": 10.0,
+          "T1": 8.0,
+          "pressure_factor": 100,
+          "kg": 1.16
+        },
+        {
+          "reihe": 8,
+          "T": 14.2,
+          "T1": 10.0,
+          "pressure_factor": 100,
+          "kg": 1.51
+        }
+      ]
+    },
+    {
+      "DN": "65 x 32",
+      "dimensions": {
+        "D": 76.1,
+        "D1": 42.4,
+        "L": 89,
+        "angle_max": 34
+      },
+      "variants": [
+        {
+          "reihe": 1,
+          "T": null,
+          "T1": null,
+          "pressure_factor": null,
+          "kg": null
+        },
+        {
+          "reihe": 2,
+          "T": 2.9,
+          "T1": 2.6,
+          "pressure_factor": 97,
+          "kg": 0.37
+        },
+        {
+          "reihe": 3,
+          "T": 3.6,
+          "T1": 3.6,
+          "pressure_factor": 99,
+          "kg": 0.45
+        },
+        {
+          "reihe": 4,
+          "T": 5.6,
+          "T1": 4.0,
+          "pressure_factor": 100,
+          "kg": 0.67
+        },
+        {
+          "reihe": 5,
+          "T": 7.1,
+          "T1": 5.0,
+          "pressure_factor": 100,
+          "kg": 0.83
+        },
+        {
+          "reihe": 6,
+          "T": 8.0,
+          "T1": 6.3,
+          "pressure_factor": 100,
+          "kg": 0.92
+        },
+        {
+          "reihe": 7,
+          "T": 10.0,
+          "T1": 8.0,
+          "pressure_factor": 100,
+          "kg": 1.1
+        },
+        {
+          "reihe": 8,
+          "T": 14.2,
+          "T1": 10.0,
+          "pressure_factor": 100,
+          "kg": 1.43
+        }
+      ]
+    },
+    {
+      "DN": "65 x 25",
+      "dimensions": {
+        "D": 76.1,
+        "D1": 33.7,
+        "L": 89,
+        "angle_max": 42
+      },
+      "variants": [
+        {
+          "reihe": 1,
+          "T": null,
+          "T1": null,
+          "pressure_factor": null,
+          "kg": null
+        },
+        {
+          "reihe": 2,
+          "T": 2.9,
+          "T1": 2.6,
+          "pressure_factor": 90,
+          "kg": 0.34
+        },
+        {
+          "reihe": 3,
+          "T": 3.6,
+          "T1": 3.2,
+          "pressure_factor": 93,
+          "kg": 0.42
+        },
+        {
+          "reihe": 4,
+          "T": 5.6,
+          "T1": 4.0,
+          "pressure_factor": 100,
+          "kg": 0.62
+        },
+        {
+          "reihe": 5,
+          "T": 7.1,
+          "T1": 4.5,
+          "pressure_factor": 100,
+          "kg": 0.77
+        },
+        {
+          "reihe": 6,
+          "T": 8.0,
+          "T1": 5.6,
+          "pressure_factor": 100,
+          "kg": 0.85
+        },
+        {
+          "reihe": 7,
+          "T": 10.0,
+          "T1": 6.3,
+          "pressure_factor": 100,
+          "kg": 1.02
+        },
+        {
+          "reihe": 8,
+          "T": 14.2,
+          "T1": 8.8,
+          "pressure_factor": 100,
+          "kg": 1.3
+        }
+      ]
+    },
+    {
+      "DN": "80 x 65",
+      "dimensions": {
+        "D": 88.9,
+        "D1": 76.1,
+        "L": 89,
+        "angle_max": 13
+      },
+      "variants": [
+        {
+          "reihe": 1,
+          "T": null,
+          "T1": null,
+          "pressure_factor": null,
+          "kg": null
+        },
+        {
+          "reihe": 2,
+          "T": 3.2,
+          "T1": 2.9,
+          "pressure_factor": 100,
+          "kg": 0.55
+        },
+        {
+          "reihe": 3,
+          "T": 4.0,
+          "T1": 3.6,
+          "pressure_factor": 100,
+          "kg": 0.69
+        },
+        {
+          "reihe": 4,
+          "T": 5.6,
+          "T1": 5.0,
+          "pressure_factor": 100,
+          "kg": 0.95
+        },
+        {
+          "reihe": 5,
+          "T": 8.0,
+          "T1": 7.1,
+          "pressure_factor": 100,
+          "kg": 1.31
+        },
+        {
+          "reihe": 6,
+          "T": 8.8,
+          "T1": 8.0,
+          "pressure_factor": 100,
+          "kg": 1.43
+        },
+        {
+          "reihe": 7,
+          "T": 11.0,
+          "T1": 10.0,
+          "pressure_factor": 100,
+          "kg": 1.73
+        },
+        {
+          "reihe": 8,
+          "T": 16.0,
+          "T1": 14.2,
+          "pressure_factor": 100,
+          "kg": 2.34
+        }
+      ]
+    },
+    {
+      "DN": "80 x 50",
+      "dimensions": {
+        "D": 88.9,
+        "D1": 60.3,
+        "L": 89,
+        "angle_max": 30
+      },
+      "variants": [
+        {
+          "reihe": 1,
+          "T": null,
+          "T1": null,
+          "pressure_factor": null,
+          "kg": null
+        },
+        {
+          "reihe": 2,
+          "T": 3.2,
+          "T1": 2.9,
+          "pressure_factor": 99,
+          "kg": 0.51
+        },
+        {
+          "reihe": 3,
+          "T": 4.0,
+          "T1": 3.6,
+          "pressure_factor": 100,
+          "kg": 0.63
+        },
+        {
+          "reihe": 4,
+          "T": 5.6,
+          "T1": 4.0,
+          "pressure_factor": 100,
+          "kg": 0.86
+        },
+        {
+          "reihe": 5,
+          "T": 8.0,
+          "T1": 5.0,
+          "pressure_factor": 100,
+          "kg": 1.18
+        },
+        {
+          "reihe": 6,
+          "T": 8.8,
+          "T1": 6.3,
+          "pressure_factor": 100,
+          "kg": 1.29
+        },
+        {
+          "reihe": 7,
+          "T": 11.0,
+          "T1": 8.0,
+          "pressure_factor": 100,
+          "kg": 1.55
+        },
+        {
+          "reihe": 8,
+          "T": 16.0,
+          "T1": 11.0,
+          "pressure_factor": 100,
+          "kg": 2.08
+        }
+      ]
+    },
+    {
+      "DN": "80 x 40",
+      "dimensions": {
+        "D": 88.9,
+        "D1": 48.3,
+        "L": 89,
+        "angle_max": 44
+      },
+      "variants": [
+        {
+          "reihe": 1,
+          "T": null,
+          "T1": null,
+          "pressure_factor": null,
+          "kg": null
+        },
+        {
+          "reihe": 2,
+          "T": 3.2,
+          "T1": 2.6,
+          "pressure_factor": 87,
+          "kg": 0.47
+        },
+        {
+          "reihe": 3,
+          "T": 4.0,
+          "T1": 3.6,
+          "pressure_factor": 90,
+          "kg": 0.58
+        },
+        {
+          "reihe": 4,
+          "T": 5.6,
+          "T1": 4.0,
+          "pressure_factor": 96,
+          "kg": 0.79
+        },
+        {
+          "reihe": 5,
+          "T": 8.0,
+          "T1": 5.0,
+          "pressure_factor": 100,
+          "kg": 1.06
+        },
+        {
+          "reihe": 6,
+          "T": 8.8,
+          "T1": 6.3,
+          "pressure_factor": 100,
+          "kg": 1.18
+        },
+        {
+          "reihe": 7,
+          "T": 11.0,
+          "T1": 8.0,
+          "pressure_factor": 100,
+          "kg": 1.43
+        },
+        {
+          "reihe": 8,
+          "T": 16.0,
+          "T1": 10.0,
+          "pressure_factor": 100,
+          "kg": 1.89
+        }
+      ]
+    },
+    {
+      "DN": "80 x 32",
+      "dimensions": {
+        "D": 88.9,
+        "D1": 42.4,
+        "L": 89,
+        "angle_max": 50
+      },
+      "variants": [
+        {
+          "reihe": 1,
+          "T": null,
+          "T1": null,
+          "pressure_factor": null,
+          "kg": null
+        },
+        {
+          "reihe": 2,
+          "T": 3.2,
+          "T1": 2.6,
+          "pressure_factor": 80,
+          "kg": 0.45
+        },
+        {
+          "reihe": 3,
+          "T": 4.0,
+          "T1": 3.2,
+          "pressure_factor": 80,
+          "kg": 0.56
+        },
+        {
+          "reihe": 4,
+          "T": 5.6,
+          "T1": 4.0,
+          "pressure_factor": 90,
+          "kg": 0.76
+        },
+        {
+          "reihe": 5,
+          "T": 8.0,
+          "T1": 5.0,
+          "pressure_factor": 100,
+          "kg": 1.03
+        },
+        {
+          "reihe": 6,
+          "T": 8.8,
+          "T1": 6.3,
+          "pressure_factor": 100,
+          "kg": 1.15
+        },
+        {
+          "reihe": 7,
+          "T": 11.0,
+          "T1": 8.0,
+          "pressure_factor": 100,
+          "kg": 1.38
+        },
+        {
+          "reihe": 8,
+          "T": 16.0,
+          "T1": 10.0,
+          "pressure_factor": 100,
+          "kg": 1.86
+        }
+      ]
+    },
+    {
+      "DN": "100 x 80",
+      "dimensions": {
+        "D": 114.3,
+        "D1": 88.9,
+        "L": 102,
+        "angle_max": 24
+      },
+      "variants": [
+        {
+          "reihe": 1,
+          "T": null,
+          "T1": null,
+          "pressure_factor": null,
+          "kg": null
+        },
+        {
+          "reihe": 2,
+          "T": 3.6,
+          "T1": 3.2,
+          "pressure_factor": 100,
+          "kg": 0.89
+        },
+        {
+          "reihe": 3,
+          "T": 4.5,
+          "T1": 4.0,
+          "pressure_factor": 100,
+          "kg": 1.11
+        },
+        {
+          "reihe": 4,
+          "T": 6.3,
+          "T1": 5.6,
+          "pressure_factor": 100,
+          "kg": 1.52
+        },
+        {
+          "reihe": 5,
+          "T": 8.8,
+          "T1": 8.0,
+          "pressure_factor": 100,
+          "kg": 2.07
+        },
+        {
+          "reihe": 6,
+          "T": 11.0,
+          "T1": 8.8,
+          "pressure_factor": 100,
+          "kg": 2.53
+        },
+        {
+          "reihe": 7,
+          "T": 14.2,
+          "T1": 11.0,
+          "pressure_factor": 100,
+          "kg": 3.14
+        },
+        {
+          "reihe": 8,
+          "T": 17.5,
+          "T1": 16.0,
+          "pressure_factor": 100,
+          "kg": 3.73
+        }
+      ]
+    },
+    {
+      "DN": "100 x 65",
+      "dimensions": {
+        "D": 114.3,
+        "D1": 76.1,
+        "L": 102,
+        "angle_max": 37
+      },
+      "variants": [
+        {
+          "reihe": 1,
+          "T": null,
+          "T1": null,
+          "pressure_factor": null,
+          "kg": null
+        },
+        {
+          "reihe": 2,
+          "T": 3.6,
+          "T1": 2.9,
+          "pressure_factor": 93,
+          "kg": 0.83
+        },
+        {
+          "reihe": 3,
+          "T": 4.5,
+          "T1": 3.6,
+          "pressure_factor": 95,
+          "kg": 1.04
+        },
+        {
+          "reihe": 4,
+          "T": 6.3,
+          "T1": 5.6,
+          "pressure_factor": 100,
+          "kg": 1.43
+        },
+        {
+          "reihe": 5,
+          "T": 8.8,
+          "T1": 7.1,
+          "pressure_factor": 100,
+          "kg": 1.94
+        },
+        {
+          "reihe": 6,
+          "T": 11.0,
+          "T1": 8.0,
+          "pressure_factor": 100,
+          "kg": 2.37
+        },
+        {
+          "reihe": 7,
+          "T": 14.2,
+          "T1": 10.0,
+          "pressure_factor": 100,
+          "kg": 2.94
+        },
+        {
+          "reihe": 8,
+          "T": 17.5,
+          "T1": 14.2,
+          "pressure_factor": 100,
+          "kg": 3.48
+        }
+      ]
+    },
+    {
+      "DN": "100 x 50",
+      "dimensions": {
+        "D": 114.3,
+        "D1": 60.3,
+        "L": 102,
+        "angle_max": 61
+      },
+      "variants": [
+        {
+          "reihe": 1,
+          "T": null,
+          "T1": null,
+          "pressure_factor": null,
+          "kg": null
+        },
+        {
+          "reihe": 2,
+          "T": 3.6,
+          "T1": 2.9,
+          "pressure_factor": 78,
+          "kg": 0.7
+        },
+        {
+          "reihe": 3,
+          "T": 4.5,
+          "T1": 3.6,
+          "pressure_factor": 80,
+          "kg": 0.87
+        },
+        {
+          "reihe": 4,
+          "T": 6.3,
+          "T1": 4.0,
+          "pressure_factor": 86,
+          "kg": 1.33
+        },
+        {
+          "reihe": 5,
+          "T": 8.8,
+          "T1": 5.6,
+          "pressure_factor": 94,
+          "kg": 1.8
+        },
+        {
+          "reihe": 6,
+          "T": 11.0,
+          "T1": 7.1,
+          "pressure_factor": 100,
+          "kg": 2.18
+        },
+        {
+          "reihe": 7,
+          "T": 14.2,
+          "T1": 8.8,
+          "pressure_factor": 100,
+          "kg": 2.7
+        },
+        {
+          "reihe": 8,
+          "T": 17.5,
+          "T1": 11.0,
+          "pressure_factor": 100,
+          "kg": 3.18
+        }
+      ]
+    },
+    {
+      "DN": "100 x 40",
+      "dimensions": {
+        "D": 114.3,
+        "D1": 48.3,
+        "L": 102,
+        "angle_max": 60
+      },
+      "variants": [
+        {
+          "reihe": 1,
+          "T": null,
+          "T1": null,
+          "pressure_factor": null,
+          "kg": null
+        },
+        {
+          "reihe": 2,
+          "T": 3.6,
+          "T1": 2.6,
+          "pressure_factor": 65,
+          "kg": 0.65
+        },
+        {
+          "reihe": 3,
+          "T": 4.5,
+          "T1": 3.6,
+          "pressure_factor": 68,
+          "kg": 0.81
+        },
+        {
+          "reihe": 4,
+          "T": 6.3,
+          "T1": 4.0,
+          "pressure_factor": 74,
+          "kg": 1.25
+        },
+        {
+          "reihe": 5,
+          "T": 8.8,
+          "T1": 5.0,
+          "pressure_factor": 83,
+          "kg": 1.68
+        },
+        {
+          "reihe": 6,
+          "T": 11.0,
+          "T1": 6.3,
+          "pressure_factor": 93,
+          "kg": 2.04
+        },
+        {
+          "reihe": 7,
+          "T": 14.2,
+          "T1": 8.0,
+          "pressure_factor": 100,
+          "kg": 2.52
+        },
+        {
+          "reihe": 8,
+          "T": 17.5,
+          "T1": 10.0,
+          "pressure_factor": 100,
+          "kg": 2.95
+        }
+      ]
+    },
+    {
+      "DN": "125 x 100",
+      "dimensions": {
+        "D": 139.7,
+        "D1": 114.3,
+        "L": 127,
+        "angle_max": 18
+      },
+      "variants": [
+        {
+          "reihe": 1,
+          "T": null,
+          "T1": null,
+          "pressure_factor": null,
+          "kg": null
+        },
+        {
+          "reihe": 2,
+          "T": 4.0,
+          "T1": 3.6,
+          "pressure_factor": 100,
+          "kg": 1.55
+        },
+        {
+          "reihe": 3,
+          "T": 5.0,
+          "T1": 4.5,
+          "pressure_factor": 100,
+          "kg": 1.92
+        },
+        {
+          "reihe": 4,
+          "T": 6.3,
+          "T1": 6.3,
+          "pressure_factor": 100,
+          "kg": 2.39
+        },
+        {
+          "reihe": 5,
+          "T": 10.0,
+          "T1": 8.8,
+          "pressure_factor": 100,
+          "kg": 3.69
+        },
+        {
+          "reihe": 6,
+          "T": 12.5,
+          "T1": 11.0,
+          "pressure_factor": 100,
+          "kg": 4.5
+        },
+        {
+          "reihe": 7,
+          "T": 16.0,
+          "T1": 14.2,
+          "pressure_factor": 100,
+          "kg": 5.59
+        },
+        {
+          "reihe": 8,
+          "T": 20.0,
+          "T1": 17.5,
+          "pressure_factor": 100,
+          "kg": 6.73
+        }
+      ]
+    },
+    {
+      "DN": "125 x 80",
+      "dimensions": {
+        "D": 139.7,
+        "D1": 88.9,
+        "L": 127,
+        "angle_max": 35
+      },
+      "variants": [
+        {
+          "reihe": 1,
+          "T": null,
+          "T1": null,
+          "pressure_factor": null,
+          "kg": null
+        },
+        {
+          "reihe": 2,
+          "T": 4.0,
+          "T1": 3.2,
+          "pressure_factor": 93,
+          "kg": 1.41
+        },
+        {
+          "reihe": 3,
+          "T": 5.0,
+          "T1": 4.0,
+          "pressure_factor": 95,
+          "kg": 1.74
+        },
+        {
+          "reihe": 4,
+          "T": 6.3,
+          "T1": 5.6,
+          "pressure_factor": 98,
+          "kg": 2.17
+        },
+        {
+          "reihe": 5,
+          "T": 10.0,
+          "T1": 8.0,
+          "pressure_factor": 100,
+          "kg": 3.33
+        },
+        {
+          "reihe": 6,
+          "T": 12.5,
+          "T1": 8.8,
+          "pressure_factor": 100,
+          "kg": 4.05
+        },
+        {
+          "reihe": 7,
+          "T": 16.0,
+          "T1": 11.0,
+          "pressure_factor": 100,
+          "kg": 5.02
+        },
+        {
+          "reihe": 8,
+          "T": 20.0,
+          "T1": 16.0,
+          "pressure_factor": 100,
+          "kg": 6.02
+        }
+      ]
+    },
+    {
+      "DN": "125 x 65",
+      "dimensions": {
+        "D": 139.7,
+        "D1": 76.1,
+        "L": 127,
+        "angle_max": 43
+      },
+      "variants": [
+        {
+          "reihe": 1,
+          "T": null,
+          "T1": null,
+          "pressure_factor": null,
+          "kg": null
+        },
+        {
+          "reihe": 2,
+          "T": 4.0,
+          "T1": 2.9,
+          "pressure_factor": 86,
+          "kg": 1.34
+        },
+        {
+          "reihe": 3,
+          "T": 5.0,
+          "T1": 3.6,
+          "pressure_factor": 88,
+          "kg": 1.66
+        },
+        {
+          "reihe": 4,
+          "T": 6.3,
+          "T1": 5.6,
+          "pressure_factor": 91,
+          "kg": 2.07
+        },
+        {
+          "reihe": 5,
+          "T": 10.0,
+          "T1": 7.1,
+          "pressure_factor": 100,
+          "kg": 3.16
+        },
+        {
+          "reihe": 6,
+          "T": 12.5,
+          "T1": 8.0,
+          "pressure_factor": 100,
+          "kg": 3.84
+        },
+        {
+          "reihe": 7,
+          "T": 16.0,
+          "T1": 10.0,
+          "pressure_factor": 100,
+          "kg": 4.74
+        },
+        {
+          "reihe": 8,
+          "T": 20.0,
+          "T1": 14.2,
+          "pressure_factor": 100,
+          "kg": 5.67
+        }
+      ]
+    },
+    {
+      "DN": "125 x 50",
+      "dimensions": {
+        "D": 139.7,
+        "D1": 60.3,
+        "L": 127,
+        "angle_max": 51
+      },
+      "variants": [
+        {
+          "reihe": 1,
+          "T": null,
+          "T1": null,
+          "pressure_factor": null,
+          "kg": null
+        },
+        {
+          "reihe": 2,
+          "T": 4.0,
+          "T1": 2.9,
+          "pressure_factor": 77,
+          "kg": 1.28
+        },
+        {
+          "reihe": 3,
+          "T": 5.0,
+          "T1": 3.6,
+          "pressure_factor": 79,
+          "kg": 1.58
+        },
+        {
+          "reihe": 4,
+          "T": 6.3,
+          "T1": 4.0,
+          "pressure_factor": 82,
+          "kg": 1.94
+        },
+        {
+          "reihe": 5,
+          "T": 10.0,
+          "T1": 5.6,
+          "pressure_factor": 92,
+          "kg": 2.95
+        },
+        {
+          "reihe": 6,
+          "T": 12.5,
+          "T1": 7.1,
+          "pressure_factor": 99,
+          "kg": 3.59
+        },
+        {
+          "reihe": 7,
+          "T": 16.0,
+          "T1": 8.8,
+          "pressure_factor": 100,
+          "kg": 4.41
+        },
+        {
+          "reihe": 8,
+          "T": 20.0,
+          "T1": 11.0,
+          "pressure_factor": 100,
+          "kg": 5.25
+        }
+      ]
+    },
+    {
+      "DN": "150 x 125",
+      "dimensions": {
+        "D": 168.3,
+        "D1": 139.7,
+        "L": 140,
+        "angle_max": 18
+      },
+      "variants": [
+        {
+          "reihe": 1,
+          "T": null,
+          "T1": null,
+          "pressure_factor": null,
+          "kg": null
+        },
+        {
+          "reihe": 2,
+          "T": 4.5,
+          "T1": 4.0,
+          "pressure_factor": 100,
+          "kg": 2.55
+        },
+        {
+          "reihe": 3,
+          "T": 5.6,
+          "T1": 5.0,
+          "pressure_factor": 100,
+          "kg": 2.88
+        },
+        {
+          "reihe": 4,
+          "T": 7.1,
+          "T1": 6.3,
+          "pressure_factor": 100,
+          "kg": 3.95
+        },
+        {
+          "reihe": 5,
+          "T": 11.0,
+          "T1": 10.0,
+          "pressure_factor": 100,
+          "kg": 5.98
+        },
+        {
+          "reihe": 6,
+          "T": 14.2,
+          "T1": 12.5,
+          "pressure_factor": 100,
+          "kg": 7.56
+        },
+        {
+          "reihe": 7,
+          "T": 17.5,
+          "T1": 16.0,
+          "pressure_factor": 100,
+          "kg": 9.11
+        },
+        {
+          "reihe": 8,
+          "T": 22.2,
+          "T1": 20.0,
+          "pressure_factor": 100,
+          "kg": 11.2
+        }
+      ]
+    },
+    {
+      "DN": "150 x 100",
+      "dimensions": {
+        "D": 168.3,
+        "D1": 114.3,
+        "L": 140,
+        "angle_max": 34
+      },
+      "variants": [
+        {
+          "reihe": 1,
+          "T": null,
+          "T1": null,
+          "pressure_factor": null,
+          "kg": null
+        },
+        {
+          "reihe": 2,
+          "T": 4.5,
+          "T1": 3.6,
+          "pressure_factor": 94,
+          "kg": 2.55
+        },
+        {
+          "reihe": 3,
+          "T": 5.6,
+          "T1": 4.5,
+          "pressure_factor": 95,
+          "kg": 2.88
+        },
+        {
+          "reihe": 4,
+          "T": 7.1,
+          "T1": 6.3,
+          "pressure_factor": 98,
+          "kg": 3.95
+        },
+        {
+          "reihe": 5,
+          "T": 11.0,
+          "T1": 8.8,
+          "pressure_factor": 100,
+          "kg": 5.98
+        },
+        {
+          "reihe": 6,
+          "T": 14.2,
+          "T1": 11.0,
+          "pressure_factor": 100,
+          "kg": 7.56
+        },
+        {
+          "reihe": 7,
+          "T": 17.5,
+          "T1": 14.2,
+          "pressure_factor": 100,
+          "kg": 9.11
+        },
+        {
+          "reihe": 8,
+          "T": 22.2,
+          "T1": 17.5,
+          "pressure_factor": 100,
+          "kg": 11.2
+        }
+      ]
+    },
+    {
+      "DN": "150 x 80",
+      "dimensions": {
+        "D": 168.3,
+        "D1": 88.9,
+        "L": 140,
+        "angle_max": 48
+      },
+      "variants": [
+        {
+          "reihe": 1,
+          "T": null,
+          "T1": null,
+          "pressure_factor": null,
+          "kg": null
+        },
+        {
+          "reihe": 2,
+          "T": 4.5,
+          "T1": 3.2,
+          "pressure_factor": 80,
+          "kg": 2.55
+        },
+        {
+          "reihe": 3,
+          "T": 5.6,
+          "T1": 4.0,
+          "pressure_factor": 82,
+          "kg": 2.88
+        },
+        {
+          "reihe": 4,
+          "T": 7.1,
+          "T1": 5.6,
+          "pressure_factor": 85,
+          "kg": 3.95
+        },
+        {
+          "reihe": 5,
+          "T": 11.0,
+          "T1": 8.0,
+          "pressure_factor": 93,
+          "kg": 5.98
+        },
+        {
+          "reihe": 6,
+          "T": 14.2,
+          "T1": 8.8,
+          "pressure_factor": 100,
+          "kg": 7.56
+        },
+        {
+          "reihe": 7,
+          "T": 17.5,
+          "T1": 11.0,
+          "pressure_factor": 100,
+          "kg": 9.11
+        },
+        {
+          "reihe": 8,
+          "T": 22.2,
+          "T1": 16.0,
+          "pressure_factor": 100,
+          "kg": 11.2
+        }
+      ]
+    },
+    {
+      "DN": "150 x 65",
+      "dimensions": {
+        "D": 168.3,
+        "D1": 76.1,
+        "L": 140,
+        "angle_max": 52
+      },
+      "variants": [
+        {
+          "reihe": 1,
+          "T": null,
+          "T1": null,
+          "pressure_factor": null,
+          "kg": null
+        },
+        {
+          "reihe": 2,
+          "T": 4.5,
+          "T1": 2.9,
+          "pressure_factor": 75,
+          "kg": 2.55
+        },
+        {
+          "reihe": 3,
+          "T": 5.6,
+          "T1": 3.6,
+          "pressure_factor": 77,
+          "kg": 2.88
+        },
+        {
+          "reihe": 4,
+          "T": 7.1,
+          "T1": 5.6,
+          "pressure_factor": 80,
+          "kg": 3.95
+        },
+        {
+          "reihe": 5,
+          "T": 11.0,
+          "T1": 7.1,
+          "pressure_factor": 88,
+          "kg": 5.98
+        },
+        {
+          "reihe": 6,
+          "T": 14.2,
+          "T1": 8.0,
+          "pressure_factor": 96,
+          "kg": 7.56
+        },
+        {
+          "reihe": 7,
+          "T": 17.5,
+          "T1": 10.0,
+          "pressure_factor": 100,
+          "kg": 9.11
+        },
+        {
+          "reihe": 8,
+          "T": 22.2,
+          "T1": 14.2,
+          "pressure_factor": 100,
+          "kg": 11.2
+        }
+      ]
+    },
+    {
+      "DN": "200 x 150",
+      "dimensions": {
+        "D": 219.1,
+        "D1": 168.3,
+        "L": 152,
+        "angle_max": 31
+      },
+      "variants": [
+        {
+          "reihe": 1,
+          "T": 4.5,
+          "T1": 4.0,
+          "pressure_factor": 93,
+          "kg": 3.66
+        },
+        {
+          "reihe": 2,
+          "T": 6.3,
+          "T1": 4.5,
+          "pressure_factor": 90,
+          "kg": 5.03
+        },
+        {
+          "reihe": 3,
+          "T": 7.1,
+          "T1": 5.6,
+          "pressure_factor": 95,
+          "kg": 5.53
+        },
+        {
+          "reihe": 4,
+          "T": 8.0,
+          "T1": 7.1,
+          "pressure_factor": 98,
+          "kg": 6.32
+        },
+        {
+          "reihe": 5,
+          "T": 12.5,
+          "T1": 11.0,
+          "pressure_factor": 100,
+          "kg": 9.68
+        },
+        {
+          "reihe": 6,
+          "T": 16.0,
+          "T1": 14.2,
+          "pressure_factor": 100,
+          "kg": 10.8
+        },
+        {
+          "reihe": 7,
+          "T": 17.5,
+          "T1": 17.5,
+          "pressure_factor": 100,
+          "kg": 13.2
+        },
+        {
+          "reihe": 8,
+          "T": 22.2,
+          "T1": 22.2,
+          "pressure_factor": 100,
+          "kg": 16.4
+        }
+      ]
+    },
+    {
+      "DN": "200 x 125",
+      "dimensions": {
+        "D": 219.1,
+        "D1": 139.7,
+        "L": 152,
+        "angle_max": 45
+      },
+      "variants": [
+        {
+          "reihe": 1,
+          "T": null,
+          "T1": null,
+          "pressure_factor": null,
+          "kg": null
+        },
+        {
+          "reihe": 2,
+          "T": 6.3,
+          "T1": 4.0,
+          "pressure_factor": 74,
+          "kg": 5.03
+        },
+        {
+          "reihe": 3,
+          "T": 7.1,
+          "T1": 5.0,
+          "pressure_factor": 84,
+          "kg": 5.53
+        },
+        {
+          "reihe": 4,
+          "T": 8.0,
+          "T1": 6.3,
+          "pressure_factor": 86,
+          "kg": 6.32
+        },
+        {
+          "reihe": 5,
+          "T": 12.5,
+          "T1": 10.0,
+          "pressure_factor": 93,
+          "kg": 9.68
+        },
+        {
+          "reihe": 6,
+          "T": 16.0,
+          "T1": 12.5,
+          "pressure_factor": 99,
+          "kg": 10.8
+        },
+        {
+          "reihe": 7,
+          "T": 17.5,
+          "T1": 16.0,
+          "pressure_factor": 100,
+          "kg": 13.2
+        },
+        {
+          "reihe": 8,
+          "T": 22.2,
+          "T1": 20.0,
+          "pressure_factor": 100,
+          "kg": 16.4
+        }
+      ]
+    },
+    {
+      "DN": "200 x 100",
+      "dimensions": {
+        "D": 219.1,
+        "D1": 114.3,
+        "L": 152,
+        "angle_max": 55
+      },
+      "variants": [
+        {
+          "reihe": 1,
+          "T": null,
+          "T1": null,
+          "pressure_factor": null,
+          "kg": null
+        },
+        {
+          "reihe": 2,
+          "T": 6.3,
+          "T1": 3.6,
+          "pressure_factor": 71,
+          "kg": 5.03
+        },
+        {
+          "reihe": 3,
+          "T": 7.1,
+          "T1": 4.5,
+          "pressure_factor": 72,
+          "kg": 5.53
+        },
+        {
+          "reihe": 4,
+          "T": 8.0,
+          "T1": 6.3,
+          "pressure_factor": 74,
+          "kg": 6.32
+        },
+        {
+          "reihe": 5,
+          "T": 12.5,
+          "T1": 8.8,
+          "pressure_factor": 81,
+          "kg": 9.68
+        },
+        {
+          "reihe": 6,
+          "T": 16.0,
+          "T1": 11.0,
+          "pressure_factor": 88,
+          "kg": 10.8
+        },
+        {
+          "reihe": 7,
+          "T": 17.5,
+          "T1": 14.2,
+          "pressure_factor": 91,
+          "kg": 13.2
+        },
+        {
+          "reihe": 8,
+          "T": 22.2,
+          "T1": 17.5,
+          "pressure_factor": 100,
+          "kg": 16.4
+        }
+      ]
+    },
+    {
+      "DN": "200 x 80",
+      "dimensions": {
+        "D": 219.1,
+        "D1": 88.9,
+        "L": 152,
+        "angle_max": 60
+      },
+      "variants": [
+        {
+          "reihe": 1,
+          "T": null,
+          "T1": null,
+          "pressure_factor": null,
+          "kg": null
+        },
+        {
+          "reihe": 2,
+          "T": 6.3,
+          "T1": 3.2,
+          "pressure_factor": 64,
+          "kg": 5.03
+        },
+        {
+          "reihe": 3,
+          "T": 7.1,
+          "T1": 4.0,
+          "pressure_factor": 65,
+          "kg": 5.53
+        },
+        {
+          "reihe": 4,
+          "T": 8.0,
+          "T1": 5.6,
+          "pressure_factor": 67,
+          "kg": 6.32
+        },
+        {
+          "reihe": 5,
+          "T": 12.5,
+          "T1": 8.0,
+          "pressure_factor": 74,
+          "kg": 9.68
+        },
+        {
+          "reihe": 6,
+          "T": 16.0,
+          "T1": 8.8,
+          "pressure_factor": 81,
+          "kg": 10.8
+        },
+        {
+          "reihe": 7,
+          "T": 17.5,
+          "T1": 11.0,
+          "pressure_factor": 84,
+          "kg": 13.2
+        },
+        {
+          "reihe": 8,
+          "T": 22.2,
+          "T1": 16.0,
+          "pressure_factor": 96,
+          "kg": 16.4
+        }
+      ]
+    },
+    {
+      "DN": "250 x 200",
+      "dimensions": {
+        "D": 273.0,
+        "D1": 219.1,
+        "L": 178,
+        "angle_max": 28
+      },
+      "variants": [
+        {
+          "reihe": 1,
+          "T": 5.0,
+          "T1": 4.5,
+          "pressure_factor": 92,
+          "kg": 5.96
+        },
+        {
+          "reihe": 2,
+          "T": 6.3,
+          "T1": 6.3,
+          "pressure_factor": 97,
+          "kg": 7.36
+        },
+        {
+          "reihe": 3,
+          "T": 8.8,
+          "T1": 7.1,
+          "pressure_factor": 97,
+          "kg": 9.26
+        },
+        {
+          "reihe": 4,
+          "T": 10.0,
+          "T1": 8.0,
+          "pressure_factor": 100,
+          "kg": 10.2
+        },
+        {
+          "reihe": 5,
+          "T": 12.5,
+          "T1": 12.5,
+          "pressure_factor": 100,
+          "kg": 14.2
+        },
+        {
+          "reihe": 6,
+          "T": 16.0,
+          "T1": 16.0,
+          "pressure_factor": 100,
+          "kg": 17.5
+        },
+        {
+          "reihe": 7,
+          "T": 22.2,
+          "T1": 17.5,
+          "pressure_factor": 100,
+          "kg": 22.0
+        },
+        {
+          "reihe": 8,
+          "T": 30.0,
+          "T1": 22.2,
+          "pressure_factor": 100,
+          "kg": 28.8
+        }
+      ]
+    },
+    {
+      "DN": "250 x 150",
+      "dimensions": {
+        "D": 273.0,
+        "D1": 168.3,
+        "L": 178,
+        "angle_max": 48
+      },
+      "variants": [
+        {
+          "reihe": 1,
+          "T": 5.0,
+          "T1": 4.0,
+          "pressure_factor": 76,
+          "kg": 5.96
+        },
+        {
+          "reihe": 2,
+          "T": 6.3,
+          "T1": 4.5,
+          "pressure_factor": 75,
+          "kg": 7.36
+        },
+        {
+          "reihe": 3,
+          "T": 8.8,
+          "T1": 5.6,
+          "pressure_factor": 76,
+          "kg": 9.26
+        },
+        {
+          "reihe": 4,
+          "T": 10.0,
+          "T1": 7.1,
+          "pressure_factor": 83,
+          "kg": 10.2
+        },
+        {
+          "reihe": 5,
+          "T": 12.5,
+          "T1": 11.0,
+          "pressure_factor": 86,
+          "kg": 14.2
+        },
+        {
+          "reihe": 6,
+          "T": 16.0,
+          "T1": 14.2,
+          "pressure_factor": 91,
+          "kg": 17.5
+        },
+        {
+          "reihe": 7,
+          "T": 22.2,
+          "T1": 17.5,
+          "pressure_factor": 99,
+          "kg": 22.0
+        },
+        {
+          "reihe": 8,
+          "T": 30.0,
+          "T1": 22.2,
+          "pressure_factor": 100,
+          "kg": 28.8
+        }
+      ]
+    },
+    {
+      "DN": "250 x 125",
+      "dimensions": {
+        "D": 273.0,
+        "D1": 139.7,
+        "L": 178,
+        "angle_max": 55
+      },
+      "variants": [
+        {
+          "reihe": 1,
+          "T": null,
+          "T1": null,
+          "pressure_factor": null,
+          "kg": null
+        },
+        {
+          "reihe": 2,
+          "T": 6.3,
+          "T1": 4.0,
+          "pressure_factor": 69,
+          "kg": 7.36
+        },
+        {
+          "reihe": 3,
+          "T": 8.8,
+          "T1": 5.0,
+          "pressure_factor": 72,
+          "kg": 9.26
+        },
+        {
+          "reihe": 4,
+          "T": 10.0,
+          "T1": 6.3,
+          "pressure_factor": 74,
+          "kg": 10.2
+        },
+        {
+          "reihe": 5,
+          "T": 12.5,
+          "T1": 10.0,
+          "pressure_factor": 77,
+          "kg": 14.2
+        },
+        {
+          "reihe": 6,
+          "T": 16.0,
+          "T1": 12.5,
+          "pressure_factor": 82,
+          "kg": 17.5
+        },
+        {
+          "reihe": 7,
+          "T": 22.2,
+          "T1": 16.0,
+          "pressure_factor": 91,
+          "kg": 22.0
+        },
+        {
+          "reihe": 8,
+          "T": 30.0,
+          "T1": 20.0,
+          "pressure_factor": 100,
+          "kg": 28.8
+        }
+      ]
+    },
+    {
+      "DN": "250 x 100",
+      "dimensions": {
+        "D": 273.0,
+        "D1": 114.3,
+        "L": 178,
+        "angle_max": 60
+      },
+      "variants": [
+        {
+          "reihe": 1,
+          "T": null,
+          "T1": null,
+          "pressure_factor": null,
+          "kg": null
+        },
+        {
+          "reihe": 2,
+          "T": 6.3,
+          "T1": 3.6,
+          "pressure_factor": 62,
+          "kg": 7.36
+        },
+        {
+          "reihe": 3,
+          "T": 8.8,
+          "T1": 4.5,
+          "pressure_factor": 65,
+          "kg": 9.26
+        },
+        {
+          "reihe": 4,
+          "T": 10.0,
+          "T1": 6.3,
+          "pressure_factor": 67,
+          "kg": 10.2
+        },
+        {
+          "reihe": 5,
+          "T": 12.5,
+          "T1": 8.8,
+          "pressure_factor": 70,
+          "kg": 14.2
+        },
+        {
+          "reihe": 6,
+          "T": 16.0,
+          "T1": 11.0,
+          "pressure_factor": 75,
+          "kg": 17.5
+        },
+        {
+          "reihe": 7,
+          "T": 22.2,
+          "T1": 14.2,
+          "pressure_factor": 85,
+          "kg": 22.0
+        },
+        {
+          "reihe": 8,
+          "T": 30.0,
+          "T1": 17.5,
+          "pressure_factor": 100,
+          "kg": 28.8
+        }
+      ]
+    },
+    {
+      "DN": "300 x 250",
+      "dimensions": {
+        "D": 323.9,
+        "D1": 273.0,
+        "L": 203,
+        "angle_max": 23
+      },
+      "variants": [
+        {
+          "reihe": 1,
+          "T": 5.6,
+          "T1": 5.0,
+          "pressure_factor": 95,
+          "kg": 9.13
+        },
+        {
+          "reihe": 2,
+          "T": 7.1,
+          "T1": 6.3,
+          "pressure_factor": 99,
+          "kg": 11.1
+        },
+        {
+          "reihe": 3,
+          "T": 8.8,
+          "T1": 8.8,
+          "pressure_factor": 100,
+          "kg": 12.8
+        },
+        {
+          "reihe": 4,
+          "T": 10.0,
+          "T1": 10.0,
+          "pressure_factor": 100,
+          "kg": 15.7
+        },
+        {
+          "reihe": 5,
+          "T": 12.5,
+          "T1": 12.5,
+          "pressure_factor": 100,
+          "kg": 19.4
+        },
+        {
+          "reihe": 6,
+          "T": 17.5,
+          "T1": 16.0,
+          "pressure_factor": 100,
+          "kg": 26.8
+        },
+        {
+          "reihe": 7,
+          "T": 25.0,
+          "T1": 22.2,
+          "pressure_factor": 100,
+          "kg": 37.3
+        },
+        {
+          "reihe": 8,
+          "T": 32.0,
+          "T1": 30.0,
+          "pressure_factor": 100,
+          "kg": 46.7
+        }
+      ]
+    },
+    {
+      "DN": "300 x 200",
+      "dimensions": {
+        "D": 323.9,
+        "D1": 219.1,
+        "L": 203,
+        "angle_max": 44
+      },
+      "variants": [
+        {
+          "reihe": 1,
+          "T": 5.6,
+          "T1": 4.5,
+          "pressure_factor": 72,
+          "kg": 9.13
+        },
+        {
+          "reihe": 2,
+          "T": 7.1,
+          "T1": 6.3,
+          "pressure_factor": 83,
+          "kg": 11.1
+        },
+        {
+          "reihe": 3,
+          "T": 8.8,
+          "T1": 7.1,
+          "pressure_factor": 84,
+          "kg": 12.8
+        },
+        {
+          "reihe": 4,
+          "T": 10.0,
+          "T1": 8.0,
+          "pressure_factor": 86,
+          "kg": 15.7
+        },
+        {
+          "reihe": 5,
+          "T": 12.5,
+          "T1": 12.5,
+          "pressure_factor": 88,
+          "kg": 19.4
+        },
+        {
+          "reihe": 6,
+          "T": 17.5,
+          "T1": 16.0,
+          "pressure_factor": 93,
+          "kg": 26.8
+        },
+        {
+          "reihe": 7,
+          "T": 25.0,
+          "T1": 17.5,
+          "pressure_factor": 100,
+          "kg": 37.3
+        },
+        {
+          "reihe": 8,
+          "T": 32.0,
+          "T1": 22.2,
+          "pressure_factor": 100,
+          "kg": 46.7
+        }
+      ]
+    },
+    {
+      "DN": "300 x 150",
+      "dimensions": {
+        "D": 323.9,
+        "D1": 168.3,
+        "L": 203,
+        "angle_max": 55
+      },
+      "variants": [
+        {
+          "reihe": 1,
+          "T": 5.6,
+          "T1": 4.0,
+          "pressure_factor": 66,
+          "kg": 9.13
+        },
+        {
+          "reihe": 2,
+          "T": 7.1,
+          "T1": 4.5,
+          "pressure_factor": 69,
+          "kg": 11.1
+        },
+        {
+          "reihe": 3,
+          "T": 8.8,
+          "T1": 5.6,
+          "pressure_factor": 71,
+          "kg": 12.8
+        },
+        {
+          "reihe": 4,
+          "T": 10.0,
+          "T1": 7.1,
+          "pressure_factor": 72,
+          "kg": 15.7
+        },
+        {
+          "reihe": 5,
+          "T": 12.5,
+          "T1": 11.0,
+          "pressure_factor": 75,
+          "kg": 19.4
+        },
+        {
+          "reihe": 6,
+          "T": 17.5,
+          "T1": 14.2,
+          "pressure_factor": 80,
+          "kg": 26.8
+        },
+        {
+          "reihe": 7,
+          "T": 25.0,
+          "T1": 17.5,
+          "pressure_factor": 90,
+          "kg": 37.3
+        },
+        {
+          "reihe": 8,
+          "T": 32.0,
+          "T1": 22.2,
+          "pressure_factor": 100,
+          "kg": 46.7
+        }
+      ]
+    },
+    {
+      "DN": "300 x 125",
+      "dimensions": {
+        "D": 323.9,
+        "D1": 139.7,
+        "L": 203,
+        "angle_max": 60
+      },
+      "variants": [
+        {
+          "reihe": 1,
+          "T": null,
+          "T1": null,
+          "pressure_factor": null,
+          "kg": null
+        },
+        {
+          "reihe": 2,
+          "T": 7.1,
+          "T1": 4.0,
+          "pressure_factor": 61,
+          "kg": 11.1
+        },
+        {
+          "reihe": 3,
+          "T": 8.8,
+          "T1": 5.0,
+          "pressure_factor": 63,
+          "kg": 12.8
+        },
+        {
+          "reihe": 4,
+          "T": 10.0,
+          "T1": 6.3,
+          "pressure_factor": 65,
+          "kg": 15.7
+        },
+        {
+          "reihe": 5,
+          "T": 12.5,
+          "T1": 10.0,
+          "pressure_factor": 67,
+          "kg": 19.4
+        },
+        {
+          "reihe": 6,
+          "T": 17.5,
+          "T1": 12.5,
+          "pressure_factor": 73,
+          "kg": 26.8
+        },
+        {
+          "reihe": 7,
+          "T": 25.0,
+          "T1": 16.0,
+          "pressure_factor": 83,
+          "kg": 37.3
+        },
+        {
+          "reihe": 8,
+          "T": 32.0,
+          "T1": 20.0,
+          "pressure_factor": 94,
+          "kg": 46.7
+        }
+      ]
+    },
+    {
+      "DN": "350 x 300",
+      "dimensions": {
+        "D": 355.6,
+        "D1": 323.9,
+        "L": 330,
+        "angle_max": 8
+      },
+      "variants": [
+        {
+          "reihe": 1,
+          "T": 5.6,
+          "T1": 5.6,
+          "pressure_factor": 100,
+          "kg": 16.2
+        },
+        {
+          "reihe": 2,
+          "T": 8.0,
+          "T1": 7.1,
+          "pressure_factor": 100,
+          "kg": 22.8
+        },
+        {
+          "reihe": 3,
+          "T": 10.0,
+          "T1": 8.8,
+          "pressure_factor": 100,
+          "kg": 28.1
+        },
+        {
+          "reihe": 4,
+          "T": 12.5,
+          "T1": 10.0,
+          "pressure_factor": 100,
+          "kg": 34.9
+        },
+        {
+          "reihe": 5,
+          "T": 16.0,
+          "T1": 12.5,
+          "pressure_factor": 100,
+          "kg": 42.2
+        },
+        {
+          "reihe": 6,
+          "T": 20.0,
+          "T1": 17.5,
+          "pressure_factor": 100,
+          "kg": 52.1
+        },
+        {
+          "reihe": 7,
+          "T": 28.0,
+          "T1": 25.0,
+          "pressure_factor": 100,
+          "kg": 74.5
+        },
+        {
+          "reihe": 8,
+          "T": 36.0,
+          "T1": 32.0,
+          "pressure_factor": 100,
+          "kg": 93.7
+        }
+      ]
+    },
+    {
+      "DN": "350 x 250",
+      "dimensions": {
+        "D": 355.6,
+        "D1": 273.0,
+        "L": 330,
+        "angle_max": 25
+      },
+      "variants": [
+        {
+          "reihe": 1,
+          "T": 5.6,
+          "T1": 5.0,
+          "pressure_factor": 97,
+          "kg": 16.2
+        },
+        {
+          "reihe": 2,
+          "T": 8.0,
+          "T1": 6.3,
+          "pressure_factor": 97,
+          "kg": 22.8
+        },
+        {
+          "reihe": 3,
+          "T": 10.0,
+          "T1": 8.8,
+          "pressure_factor": 100,
+          "kg": 28.1
+        },
+        {
+          "reihe": 4,
+          "T": 12.5,
+          "T1": 10.0,
+          "pressure_factor": 100,
+          "kg": 34.9
+        },
+        {
+          "reihe": 5,
+          "T": 16.0,
+          "T1": 12.5,
+          "pressure_factor": 100,
+          "kg": 42.2
+        },
+        {
+          "reihe": 6,
+          "T": 20.0,
+          "T1": 16.0,
+          "pressure_factor": 100,
+          "kg": 52.1
+        },
+        {
+          "reihe": 7,
+          "T": 28.0,
+          "T1": 22.2,
+          "pressure_factor": 100,
+          "kg": 74.5
+        },
+        {
+          "reihe": 8,
+          "T": 36.0,
+          "T1": 30.0,
+          "pressure_factor": 100,
+          "kg": 93.7
+        }
+      ]
+    },
+    {
+      "DN": "350 x 200",
+      "dimensions": {
+        "D": 355.6,
+        "D1": 219.1,
+        "L": 330,
+        "angle_max": 37
+      },
+      "variants": [
+        {
+          "reihe": 1,
+          "T": 5.6,
+          "T1": 4.5,
+          "pressure_factor": 88,
+          "kg": 16.2
+        },
+        {
+          "reihe": 2,
+          "T": 8.0,
+          "T1": 6.3,
+          "pressure_factor": 90,
+          "kg": 22.8
+        },
+        {
+          "reihe": 3,
+          "T": 10.0,
+          "T1": 7.1,
+          "pressure_factor": 92,
+          "kg": 28.1
+        },
+        {
+          "reihe": 4,
+          "T": 12.5,
+          "T1": 8.0,
+          "pressure_factor": 94,
+          "kg": 34.9
+        },
+        {
+          "reihe": 5,
+          "T": 16.0,
+          "T1": 12.5,
+          "pressure_factor": 97,
+          "kg": 42.2
+        },
+        {
+          "reihe": 6,
+          "T": 20.0,
+          "T1": 16.0,
+          "pressure_factor": 100,
+          "kg": 52.1
+        },
+        {
+          "reihe": 7,
+          "T": 28.0,
+          "T1": 17.5,
+          "pressure_factor": 100,
+          "kg": 74.5
+        },
+        {
+          "reihe": 8,
+          "T": 36.0,
+          "T1": 22.2,
+          "pressure_factor": 100,
+          "kg": 93.7
+        }
+      ]
+    },
+    {
+      "DN": "350 x 150",
+      "dimensions": {
+        "D": 355.6,
+        "D1": 168.3,
+        "L": 330,
+        "angle_max": 47
+      },
+      "variants": [
+        {
+          "reihe": 1,
+          "T": 5.6,
+          "T1": 4.0,
+          "pressure_factor": 77,
+          "kg": 16.2
+        },
+        {
+          "reihe": 2,
+          "T": 8.0,
+          "T1": 4.5,
+          "pressure_factor": 79,
+          "kg": 22.8
+        },
+        {
+          "reihe": 3,
+          "T": 10.0,
+          "T1": 5.6,
+          "pressure_factor": 81,
+          "kg": 28.1
+        },
+        {
+          "reihe": 4,
+          "T": 12.5,
+          "T1": 7.1,
+          "pressure_factor": 84,
+          "kg": 34.9
+        },
+        {
+          "reihe": 5,
+          "T": 16.0,
+          "T1": 11.0,
+          "pressure_factor": 87,
+          "kg": 42.2
+        },
+        {
+          "reihe": 6,
+          "T": 20.0,
+          "T1": 14.2,
+          "pressure_factor": 91,
+          "kg": 52.1
+        },
+        {
+          "reihe": 7,
+          "T": 28.0,
+          "T1": 17.5,
+          "pressure_factor": 99,
+          "kg": 74.5
+        },
+        {
+          "reihe": 8,
+          "T": 36.0,
+          "T1": 22.2,
+          "pressure_factor": 100,
+          "kg": 93.7
+        }
+      ]
+    },
+    {
+      "DN": "400 x 350",
+      "dimensions": {
+        "D": 406.4,
+        "D1": 355.6,
+        "L": 356,
+        "angle_max": 15
+      },
+      "variants": [
+        {
+          "reihe": 1,
+          "T": 6.3,
+          "T1": 5.6,
+          "pressure_factor": 100,
+          "kg": 22.5
+        },
+        {
+          "reihe": 2,
+          "T": 8.8,
+          "T1": 8.0,
+          "pressure_factor": 100,
+          "kg": 30.6
+        },
+        {
+          "reihe": 3,
+          "T": 10.0,
+          "T1": 10.0,
+          "pressure_factor": 100,
+          "kg": 34.7
+        },
+        {
+          "reihe": 4,
+          "T": 12.5,
+          "T1": 12.5,
+          "pressure_factor": 100,
+          "kg": 42.9
+        },
+        {
+          "reihe": 5,
+          "T": 17.5,
+          "T1": 16.0,
+          "pressure_factor": 100,
+          "kg": 55.9
+        },
+        {
+          "reihe": 6,
+          "T": 22.2,
+          "T1": 20.0,
+          "pressure_factor": 100,
+          "kg": 70.0
+        },
+        {
+          "reihe": 7,
+          "T": 30.0,
+          "T1": 28.0,
+          "pressure_factor": 100,
+          "kg": 98.6
+        },
+        {
+          "reihe": 8,
+          "T": 40.0,
+          "T1": 36.0,
+          "pressure_factor": 100,
+          "kg": 128
+        }
+      ]
+    },
+    {
+      "DN": "400 x 300",
+      "dimensions": {
+        "D": 406.4,
+        "D1": 323.9,
+        "L": 356,
+        "angle_max": 24
+      },
+      "variants": [
+        {
+          "reihe": 1,
+          "T": 6.3,
+          "T1": 5.6,
+          "pressure_factor": 96,
+          "kg": 22.5
+        },
+        {
+          "reihe": 2,
+          "T": 8.8,
+          "T1": 7.1,
+          "pressure_factor": 96,
+          "kg": 30.6
+        },
+        {
+          "reihe": 3,
+          "T": 10.0,
+          "T1": 8.8,
+          "pressure_factor": 99,
+          "kg": 34.7
+        },
+        {
+          "reihe": 4,
+          "T": 12.5,
+          "T1": 10.0,
+          "pressure_factor": 100,
+          "kg": 42.9
+        },
+        {
+          "reihe": 5,
+          "T": 17.5,
+          "T1": 12.5,
+          "pressure_factor": 100,
+          "kg": 55.9
+        },
+        {
+          "reihe": 6,
+          "T": 22.2,
+          "T1": 17.5,
+          "pressure_factor": 100,
+          "kg": 70.0
+        },
+        {
+          "reihe": 7,
+          "T": 30.0,
+          "T1": 25.0,
+          "pressure_factor": 100,
+          "kg": 98.6
+        },
+        {
+          "reihe": 8,
+          "T": 40.0,
+          "T1": 32.0,
+          "pressure_factor": 100,
+          "kg": 128
+        }
+      ]
+    },
+    {
+      "DN": "400 x 250",
+      "dimensions": {
+        "D": 406.4,
+        "D1": 273.0,
+        "L": 356,
+        "angle_max": 36
+      },
+      "variants": [
+        {
+          "reihe": 1,
+          "T": 6.3,
+          "T1": 5.0,
+          "pressure_factor": 82,
+          "kg": 22.5
+        },
+        {
+          "reihe": 2,
+          "T": 8.8,
+          "T1": 6.3,
+          "pressure_factor": 83,
+          "kg": 30.6
+        },
+        {
+          "reihe": 3,
+          "T": 10.0,
+          "T1": 8.8,
+          "pressure_factor": 91,
+          "kg": 34.7
+        },
+        {
+          "reihe": 4,
+          "T": 12.5,
+          "T1": 10.0,
+          "pressure_factor": 93,
+          "kg": 42.9
+        },
+        {
+          "reihe": 5,
+          "T": 17.5,
+          "T1": 12.5,
+          "pressure_factor": 97,
+          "kg": 55.9
+        },
+        {
+          "reihe": 6,
+          "T": 22.2,
+          "T1": 16.0,
+          "pressure_factor": 100,
+          "kg": 70.0
+        },
+        {
+          "reihe": 7,
+          "T": 30.0,
+          "T1": 22.2,
+          "pressure_factor": 100,
+          "kg": 98.6
+        },
+        {
+          "reihe": 8,
+          "T": 40.0,
+          "T1": 30.0,
+          "pressure_factor": 100,
+          "kg": 128
+        }
+      ]
+    },
+    {
+      "DN": "400 x 200",
+      "dimensions": {
+        "D": 406.4,
+        "D1": 219.1,
+        "L": 356,
+        "angle_max": 46
+      },
+      "variants": [
+        {
+          "reihe": 1,
+          "T": 6.3,
+          "T1": 4.5,
+          "pressure_factor": 73,
+          "kg": 22.5
+        },
+        {
+          "reihe": 2,
+          "T": 8.8,
+          "T1": 6.3,
+          "pressure_factor": 80,
+          "kg": 30.6
+        },
+        {
+          "reihe": 3,
+          "T": 10.0,
+          "T1": 7.1,
+          "pressure_factor": 81,
+          "kg": 34.7
+        },
+        {
+          "reihe": 4,
+          "T": 12.5,
+          "T1": 8.0,
+          "pressure_factor": 83,
+          "kg": 42.9
+        },
+        {
+          "reihe": 5,
+          "T": 17.5,
+          "T1": 12.5,
+          "pressure_factor": 87,
+          "kg": 55.9
+        },
+        {
+          "reihe": 6,
+          "T": 22.2,
+          "T1": 16.0,
+          "pressure_factor": 91,
+          "kg": 70.0
+        },
+        {
+          "reihe": 7,
+          "T": 30.0,
+          "T1": 17.5,
+          "pressure_factor": 98,
+          "kg": 98.6
+        },
+        {
+          "reihe": 8,
+          "T": 40.0,
+          "T1": 22.2,
+          "pressure_factor": 100,
+          "kg": 128
+        }
+      ]
+    },
+    {
+      "DN": "450 x 400",
+      "dimensions": {
+        "D": 457.0,
+        "D1": 406.4,
+        "L": 381,
+        "angle_max": 11
+      },
+      "variants": [
+        {
+          "reihe": 1,
+          "T": 6.3,
+          "T1": 6.3,
+          "pressure_factor": 100,
+          "kg": 27.2
+        },
+        {
+          "reihe": 2,
+          "T": 10.0,
+          "T1": 8.8,
+          "pressure_factor": 100,
+          "kg": 41.9
+        },
+        {
+          "reihe": 3,
+          "T": 11.0,
+          "T1": 10.0,
+          "pressure_factor": 100,
+          "kg": 43.5
+        },
+        {
+          "reihe": 4,
+          "T": 12.5,
+          "T1": 10.0,
+          "pressure_factor": 100,
+          "kg": 52.1
+        },
+        {
+          "reihe": 5,
+          "T": 17.5,
+          "T1": 17.5,
+          "pressure_factor": 100,
+          "kg": 68.2
+        },
+        {
+          "reihe": 6,
+          "T": 22.2,
+          "T1": 22.2,
+          "pressure_factor": 100,
+          "kg": 85.5
+        },
+        {
+          "reihe": 7,
+          "T": 32.0,
+          "T1": 30.0,
+          "pressure_factor": 100,
+          "kg": 127
+        },
+        {
+          "reihe": 8,
+          "T": 45.0,
+          "T1": 40.0,
+          "pressure_factor": 100,
+          "kg": 174
+        }
+      ]
+    },
+    {
+      "DN": "450 x 350",
+      "dimensions": {
+        "D": 457.0,
+        "D1": 355.6,
+        "L": 381,
+        "angle_max": 24
+      },
+      "variants": [
+        {
+          "reihe": 1,
+          "T": 6.3,
+          "T1": 5.6,
+          "pressure_factor": 95,
+          "kg": 27.2
+        },
+        {
+          "reihe": 2,
+          "T": 10.0,
+          "T1": 8.0,
+          "pressure_factor": 98,
+          "kg": 41.9
+        },
+        {
+          "reihe": 3,
+          "T": 11.0,
+          "T1": 10.0,
+          "pressure_factor": 99,
+          "kg": 43.5
+        },
+        {
+          "reihe": 4,
+          "T": 12.5,
+          "T1": 12.5,
+          "pressure_factor": 100,
+          "kg": 52.1
+        },
+        {
+          "reihe": 5,
+          "T": 17.5,
+          "T1": 16.0,
+          "pressure_factor": 100,
+          "kg": 68.2
+        },
+        {
+          "reihe": 6,
+          "T": 22.2,
+          "T1": 20.0,
+          "pressure_factor": 100,
+          "kg": 85.5
+        },
+        {
+          "reihe": 7,
+          "T": 32.0,
+          "T1": 28.0,
+          "pressure_factor": 100,
+          "kg": 127
+        },
+        {
+          "reihe": 8,
+          "T": 45.0,
+          "T1": 36.0,
+          "pressure_factor": 100,
+          "kg": 174
+        }
+      ]
+    },
+    {
+      "DN": "450 x 300",
+      "dimensions": {
+        "D": 457.0,
+        "D1": 323.9,
+        "L": 381,
+        "angle_max": 31
+      },
+      "variants": [
+        {
+          "reihe": 1,
+          "T": 6.3,
+          "T1": 5.6,
+          "pressure_factor": 91,
+          "kg": 27.2
+        },
+        {
+          "reihe": 2,
+          "T": 10.0,
+          "T1": 7.1,
+          "pressure_factor": 85,
+          "kg": 41.9
+        },
+        {
+          "reihe": 3,
+          "T": 11.0,
+          "T1": 8.8,
+          "pressure_factor": 95,
+          "kg": 43.5
+        },
+        {
+          "reihe": 4,
+          "T": 12.5,
+          "T1": 10.0,
+          "pressure_factor": 96,
+          "kg": 52.1
+        },
+        {
+          "reihe": 5,
+          "T": 17.5,
+          "T1": 12.5,
+          "pressure_factor": 99,
+          "kg": 68.2
+        },
+        {
+          "reihe": 6,
+          "T": 22.2,
+          "T1": 17.5,
+          "pressure_factor": 100,
+          "kg": 85.5
+        },
+        {
+          "reihe": 7,
+          "T": 32.0,
+          "T1": 25.0,
+          "pressure_factor": 100,
+          "kg": 127
+        },
+        {
+          "reihe": 8,
+          "T": 45.0,
+          "T1": 32.0,
+          "pressure_factor": 100,
+          "kg": 174
+        }
+      ]
+    },
+    {
+      "DN": "450 x 250",
+      "dimensions": {
+        "D": 457.0,
+        "D1": 273.0,
+        "L": 381,
+        "angle_max": 41
+      },
+      "variants": [
+        {
+          "reihe": 1,
+          "T": 6.3,
+          "T1": 5.0,
+          "pressure_factor": 83,
+          "kg": 27.2
+        },
+        {
+          "reihe": 2,
+          "T": 10.0,
+          "T1": 6.3,
+          "pressure_factor": 79,
+          "kg": 41.9
+        },
+        {
+          "reihe": 3,
+          "T": 11.0,
+          "T1": 8.8,
+          "pressure_factor": 86,
+          "kg": 43.5
+        },
+        {
+          "reihe": 4,
+          "T": 12.5,
+          "T1": 10.0,
+          "pressure_factor": 88,
+          "kg": 52.1
+        },
+        {
+          "reihe": 5,
+          "T": 17.5,
+          "T1": 12.5,
+          "pressure_factor": 91,
+          "kg": 68.2
+        },
+        {
+          "reihe": 6,
+          "T": 22.2,
+          "T1": 16.0,
+          "pressure_factor": 94,
+          "kg": 85.5
+        },
+        {
+          "reihe": 7,
+          "T": 32.0,
+          "T1": 22.2,
+          "pressure_factor": 100,
+          "kg": 127
+        },
+        {
+          "reihe": 8,
+          "T": 45.0,
+          "T1": 30.0,
+          "pressure_factor": 100,
+          "kg": 174
+        }
+      ]
+    },
+    {
+      "DN": "500 x 450",
+      "dimensions": {
+        "D": 508.0,
+        "D1": 457.0,
+        "L": 508,
+        "angle_max": 8
+      },
+      "variants": [
+        {
+          "reihe": 1,
+          "T": 6.3,
+          "T1": 6.3,
+          "pressure_factor": 100,
+          "kg": 37.6
+        },
+        {
+          "reihe": 2,
+          "T": 10.0,
+          "T1": 10.0,
+          "pressure_factor": 100,
+          "kg": 59.2
+        },
+        {
+          "reihe": 3,
+          "T": 11.0,
+          "T1": 11.0,
+          "pressure_factor": 100,
+          "kg": 65.0
+        },
+        {
+          "reihe": 4,
+          "T": 12.5,
+          "T1": 12.5,
+          "pressure_factor": 100,
+          "kg": 73.6
+        },
+        {
+          "reihe": 5,
+          "T": 17.5,
+          "T1": 17.5,
+          "pressure_factor": 100,
+          "kg": 102
+        },
+        {
+          "reihe": 6,
+          "T": 25.0,
+          "T1": 22.2,
+          "pressure_factor": 100,
+          "kg": 143
+        },
+        {
+          "reihe": 7,
+          "T": 36.0,
+          "T1": 32.0,
+          "pressure_factor": 100,
+          "kg": 201
+        },
+        {
+          "reihe": 8,
+          "T": 50.0,
+          "T1": 45.0,
+          "pressure_factor": 100,
+          "kg": 271
+        }
+      ]
+    },
+    {
+      "DN": "500 x 400",
+      "dimensions": {
+        "D": 508.0,
+        "D1": 406.4,
+        "L": 508,
+        "angle_max": 18
+      },
+      "variants": [
+        {
+          "reihe": 1,
+          "T": 6.3,
+          "T1": 6.3,
+          "pressure_factor": 99,
+          "kg": 35.7
+        },
+        {
+          "reihe": 2,
+          "T": 10.0,
+          "T1": 8.8,
+          "pressure_factor": 100,
+          "kg": 56.3
+        },
+        {
+          "reihe": 3,
+          "T": 11.0,
+          "T1": 10.0,
+          "pressure_factor": 100,
+          "kg": 61.7
+        },
+        {
+          "reihe": 4,
+          "T": 12.5,
+          "T1": 12.5,
+          "pressure_factor": 100,
+          "kg": 69.9
+        },
+        {
+          "reihe": 5,
+          "T": 17.5,
+          "T1": 17.5,
+          "pressure_factor": 100,
+          "kg": 96.8
+        },
+        {
+          "reihe": 6,
+          "T": 25.0,
+          "T1": 22.2,
+          "pressure_factor": 100,
+          "kg": 136
+        },
+        {
+          "reihe": 7,
+          "T": 36.0,
+          "T1": 30.0,
+          "pressure_factor": 100,
+          "kg": 191
+        },
+        {
+          "reihe": 8,
+          "T": 50.0,
+          "T1": 40.0,
+          "pressure_factor": 100,
+          "kg": 256
+        }
+      ]
+    },
+    {
+      "DN": "500 x 350",
+      "dimensions": {
+        "D": 508.0,
+        "D1": 355.6,
+        "L": 508,
+        "angle_max": 27
+      },
+      "variants": [
+        {
+          "reihe": 1,
+          "T": 6.3,
+          "T1": 5.6,
+          "pressure_factor": 94,
+          "kg": 33.9
+        },
+        {
+          "reihe": 2,
+          "T": 10.0,
+          "T1": 8.0,
+          "pressure_factor": 96,
+          "kg": 53.4
+        },
+        {
+          "reihe": 3,
+          "T": 11.0,
+          "T1": 10.0,
+          "pressure_factor": 97,
+          "kg": 58.6
+        },
+        {
+          "reihe": 4,
+          "T": 12.5,
+          "T1": 12.5,
+          "pressure_factor": 98,
+          "kg": 66.3
+        },
+        {
+          "reihe": 5,
+          "T": 17.5,
+          "T1": 16.0,
+          "pressure_factor": 100,
+          "kg": 91.8
+        },
+        {
+          "reihe": 6,
+          "T": 25.0,
+          "T1": 20.0,
+          "pressure_factor": 100,
+          "kg": 129
+        },
+        {
+          "reihe": 7,
+          "T": 36.0,
+          "T1": 28.0,
+          "pressure_factor": 100,
+          "kg": 180
+        },
+        {
+          "reihe": 8,
+          "T": 50.0,
+          "T1": 36.0,
+          "pressure_factor": 100,
+          "kg": 242
+        }
+      ]
+    },
+    {
+      "DN": "500 x 300",
+      "dimensions": {
+        "D": 508.0,
+        "D1": 323.9,
+        "L": 508,
+        "angle_max": 32
+      },
+      "variants": [
+        {
+          "reihe": 1,
+          "T": 6.3,
+          "T1": 5.6,
+          "pressure_factor": 91,
+          "kg": 32.8
+        },
+        {
+          "reihe": 2,
+          "T": 10.0,
+          "T1": 7.1,
+          "pressure_factor": 93,
+          "kg": 51.6
+        },
+        {
+          "reihe": 3,
+          "T": 11.0,
+          "T1": 8.8,
+          "pressure_factor": 94,
+          "kg": 56.7
+        },
+        {
+          "reihe": 4,
+          "T": 12.5,
+          "T1": 10.0,
+          "pressure_factor": 95,
+          "kg": 64.2
+        },
+        {
+          "reihe": 5,
+          "T": 17.5,
+          "T1": 12.5,
+          "pressure_factor": 97,
+          "kg": 88.7
+        },
+        {
+          "reihe": 6,
+          "T": 25.0,
+          "T1": 17.5,
+          "pressure_factor": 100,
+          "kg": 124
+        },
+        {
+          "reihe": 7,
+          "T": 36.0,
+          "T1": 25.0,
+          "pressure_factor": 100,
+          "kg": 174
+        },
+        {
+          "reihe": 8,
+          "T": 50.0,
+          "T1": 32.0,
+          "pressure_factor": 100,
+          "kg": 233
+        }
+      ]
+    },
+    {
+      "DN": "600 x 500",
+      "dimensions": {
+        "D": 610.0,
+        "D1": 508.0,
+        "L": 508,
+        "angle_max": 17
+      },
+      "variants": [
+        {
+          "reihe": 1,
+          "T": 6.3,
+          "T1": 6.3,
+          "pressure_factor": 99,
+          "kg": 43.8
+        },
+        {
+          "reihe": 2,
+          "T": 10.0,
+          "T1": 10.0,
+          "pressure_factor": 100,
+          "kg": 69.0
+        },
+        {
+          "reihe": 3,
+          "T": 12.5,
+          "T1": 11.0,
+          "pressure_factor": 100,
+          "kg": 85.9
+        },
+        {
+          "reihe": 4,
+          "T": 17.5,
+          "T1": 12.5,
+          "pressure_factor": 100,
+          "kg": 119
+        },
+        {
+          "reihe": 5,
+          "T": 25.0,
+          "T1": 17.5,
+          "pressure_factor": 100,
+          "kg": 168
+        },
+        {
+          "reihe": 6,
+          "T": 30.0,
+          "T1": 25.0,
+          "pressure_factor": 100,
+          "kg": 200
+        },
+        {
+          "reihe": 7,
+          "T": 45.0,
+          "T1": 36.0,
+          "pressure_factor": 100,
+          "kg": 291
+        },
+        {
+          "reihe": 8,
+          "T": 60.0,
+          "T1": 50.0,
+          "pressure_factor": 100,
+          "kg": 377
+        }
+      ]
+    },
+    {
+      "DN": "600 x 450",
+      "dimensions": {
+        "D": 610.0,
+        "D1": 457.0,
+        "L": 508,
+        "angle_max": 27
+      },
+      "variants": [
+        {
+          "reihe": 1,
+          "T": 6.3,
+          "T1": 6.3,
+          "pressure_factor": 94,
+          "kg": 42.0
+        },
+        {
+          "reihe": 2,
+          "T": 10.0,
+          "T1": 10.0,
+          "pressure_factor": 96,
+          "kg": 66.3
+        },
+        {
+          "reihe": 3,
+          "T": 12.5,
+          "T1": 11.0,
+          "pressure_factor": 97,
+          "kg": 82.5
+        },
+        {
+          "reihe": 4,
+          "T": 17.5,
+          "T1": 12.5,
+          "pressure_factor": 98,
+          "kg": 114
+        },
+        {
+          "reihe": 5,
+          "T": 25.0,
+          "T1": 17.5,
+          "pressure_factor": 100,
+          "kg": 161
+        },
+        {
+          "reihe": 6,
+          "T": 30.0,
+          "T1": 22.2,
+          "pressure_factor": 100,
+          "kg": 191
+        },
+        {
+          "reihe": 7,
+          "T": 45.0,
+          "T1": 32.0,
+          "pressure_factor": 100,
+          "kg": 278
+        },
+        {
+          "reihe": 8,
+          "T": 60.0,
+          "T1": 45.0,
+          "pressure_factor": 100,
+          "kg": 360
+        }
+      ]
+    },
+    {
+      "DN": "600 x 400",
+      "dimensions": {
+        "D": 610.0,
+        "D1": 406.4,
+        "L": 508,
+        "angle_max": 35
+      },
+      "variants": [
+        {
+          "reihe": 1,
+          "T": 6.3,
+          "T1": 6.3,
+          "pressure_factor": 88,
+          "kg": 40.4
+        },
+        {
+          "reihe": 2,
+          "T": 10.0,
+          "T1": 8.8,
+          "pressure_factor": 90,
+          "kg": 63.6
+        },
+        {
+          "reihe": 3,
+          "T": 12.5,
+          "T1": 10.0,
+          "pressure_factor": 91,
+          "kg": 79.1
+        },
+        {
+          "reihe": 4,
+          "T": 17.5,
+          "T1": 12.5,
+          "pressure_factor": 93,
+          "kg": 110
+        },
+        {
+          "reihe": 5,
+          "T": 25.0,
+          "T1": 17.5,
+          "pressure_factor": 97,
+          "kg": 154
+        },
+        {
+          "reihe": 6,
+          "T": 30.0,
+          "T1": 22.2,
+          "pressure_factor": 99,
+          "kg": 183
+        },
+        {
+          "reihe": 7,
+          "T": 45.0,
+          "T1": 30.0,
+          "pressure_factor": 100,
+          "kg": 266
+        },
+        {
+          "reihe": 8,
+          "T": 60.0,
+          "T1": 40.0,
+          "pressure_factor": 100,
+          "kg": 343
+        }
+      ]
+    },
+    {
+      "DN": "700 x 600",
+      "dimensions": {
+        "D": 711.0,
+        "D1": 610.0,
+        "L": 610,
+        "angle_max": 19
+      },
+      "variants": [
+        {
+          "reihe": 1,
+          "T": 7.1,
+          "T1": 6.3,
+          "pressure_factor": 88,
+          "kg": 70.0
+        },
+        {
+          "reihe": 2,
+          "T": 10.0,
+          "T1": 10.0,
+          "pressure_factor": 99,
+          "kg": 98.1
+        },
+        {
+          "reihe": 3,
+          "T": 12.5,
+          "T1": 12.5,
+          "pressure_factor": 100,
+          "kg": 122
+        },
+        {
+          "reihe": 4,
+          "T": 25.0,
+          "T1": 17.5,
+          "pressure_factor": 100,
+          "kg": 240
+        },
+        {
+          "reihe": 5,
+          "T": null,
+          "T1": null,
+          "pressure_factor": null,
+          "kg": null
+        },
+        {
+          "reihe": 6,
+          "T": null,
+          "T1": null,
+          "pressure_factor": null,
+          "kg": null
+        },
+        {
+          "reihe": 7,
+          "T": null,
+          "T1": null,
+          "pressure_factor": null,
+          "kg": null
+        },
+        {
+          "reihe": 8,
+          "T": null,
+          "T1": null,
+          "pressure_factor": null,
+          "kg": null
+        }
+      ]
+    },
+    {
+      "DN": "700 x 500",
+      "dimensions": {
+        "D": 711.0,
+        "D1": 508.0,
+        "L": 610,
+        "angle_max": 34
+      },
+      "variants": [
+        {
+          "reihe": 1,
+          "T": 7.1,
+          "T1": 6.3,
+          "pressure_factor": 71,
+          "kg": 65.2
+        },
+        {
+          "reihe": 2,
+          "T": 10.0,
+          "T1": 10.0,
+          "pressure_factor": 89,
+          "kg": 91.4
+        },
+        {
+          "reihe": 3,
+          "T": 12.5,
+          "T1": 11.0,
+          "pressure_factor": 85,
+          "kg": 114
+        },
+        {
+          "reihe": 4,
+          "T": 25.0,
+          "T1": 12.5,
+          "pressure_factor": 97,
+          "kg": 223
+        },
+        {
+          "reihe": 5,
+          "T": null,
+          "T1": null,
+          "pressure_factor": null,
+          "kg": null
+        },
+        {
+          "reihe": 6,
+          "T": null,
+          "T1": null,
+          "pressure_factor": null,
+          "kg": null
+        },
+        {
+          "reihe": 7,
+          "T": null,
+          "T1": null,
+          "pressure_factor": null,
+          "kg": null
+        },
+        {
+          "reihe": 8,
+          "T": null,
+          "T1": null,
+          "pressure_factor": null,
+          "kg": null
+        }
+      ]
+    },
+    {
+      "DN": "700 x 400",
+      "dimensions": {
+        "D": 711.0,
+        "D1": 406.4,
+        "L": 610,
+        "angle_max": 45
+      },
+      "variants": [
+        {
+          "reihe": 1,
+          "T": 7.1,
+          "T1": 6.3,
+          "pressure_factor": 67,
+          "kg": 60.7
+        },
+        {
+          "reihe": 2,
+          "T": 10.0,
+          "T1": 8.8,
+          "pressure_factor": 79,
+          "kg": 85.0
+        },
+        {
+          "reihe": 3,
+          "T": 12.5,
+          "T1": 10.0,
+          "pressure_factor": 80,
+          "kg": 106
+        },
+        {
+          "reihe": 4,
+          "T": 25.0,
+          "T1": 12.5,
+          "pressure_factor": 86,
+          "kg": 207
+        },
+        {
+          "reihe": 5,
+          "T": null,
+          "T1": null,
+          "pressure_factor": null,
+          "kg": null
+        },
+        {
+          "reihe": 6,
+          "T": null,
+          "T1": null,
+          "pressure_factor": null,
+          "kg": null
+        },
+        {
+          "reihe": 7,
+          "T": null,
+          "T1": null,
+          "pressure_factor": null,
+          "kg": null
+        },
+        {
+          "reihe": 8,
+          "T": null,
+          "T1": null,
+          "pressure_factor": null,
+          "kg": null
+        }
+      ]
+    },
+    {
+      "DN": "800 x 700",
+      "dimensions": {
+        "D": 813.0,
+        "D1": 711.0,
+        "L": 610,
+        "angle_max": 19
+      },
+      "variants": [
+        {
+          "reihe": 1,
+          "T": 8.0,
+          "T1": 7.1,
+          "pressure_factor": 86,
+          "kg": 91.0
+        },
+        {
+          "reihe": 2,
+          "T": 10.0,
+          "T1": 10.0,
+          "pressure_factor": 99,
+          "kg": 113
+        },
+        {
+          "reihe": 3,
+          "T": 12.5,
+          "T1": 12.5,
+          "pressure_factor": 99,
+          "kg": 141
+        },
+        {
+          "reihe": 4,
+          "T": 25.0,
+          "T1": 25.0,
+          "pressure_factor": 100,
+          "kg": 278
+        },
+        {
+          "reihe": 5,
+          "T": null,
+          "T1": null,
+          "pressure_factor": null,
+          "kg": null
+        },
+        {
+          "reihe": 6,
+          "T": null,
+          "T1": null,
+          "pressure_factor": null,
+          "kg": null
+        },
+        {
+          "reihe": 7,
+          "T": null,
+          "T1": null,
+          "pressure_factor": null,
+          "kg": null
+        },
+        {
+          "reihe": 8,
+          "T": null,
+          "T1": null,
+          "pressure_factor": null,
+          "kg": null
+        }
+      ]
+    },
+    {
+      "DN": "800 x 600",
+      "dimensions": {
+        "D": 813.0,
+        "D1": 610.0,
+        "L": 610,
+        "angle_max": 34
+      },
+      "variants": [
+        {
+          "reihe": 1,
+          "T": 8.0,
+          "T1": 6.3,
+          "pressure_factor": 62,
+          "kg": 85.7
+        },
+        {
+          "reihe": 2,
+          "T": 10.0,
+          "T1": 10.0,
+          "pressure_factor": 80,
+          "kg": 107
+        },
+        {
+          "reihe": 3,
+          "T": 12.5,
+          "T1": 12.5,
+          "pressure_factor": 86,
+          "kg": 133
+        },
+        {
+          "reihe": 4,
+          "T": 25.0,
+          "T1": 17.5,
+          "pressure_factor": 87,
+          "kg": 262
+        },
+        {
+          "reihe": 5,
+          "T": null,
+          "T1": null,
+          "pressure_factor": null,
+          "kg": null
+        },
+        {
+          "reihe": 6,
+          "T": null,
+          "T1": null,
+          "pressure_factor": null,
+          "kg": null
+        },
+        {
+          "reihe": 7,
+          "T": null,
+          "T1": null,
+          "pressure_factor": null,
+          "kg": null
+        },
+        {
+          "reihe": 8,
+          "T": null,
+          "T1": null,
+          "pressure_factor": null,
+          "kg": null
+        }
+      ]
+    },
+    {
+      "DN": "800 x 500",
+      "dimensions": {
+        "D": 813.0,
+        "D1": 508.0,
+        "L": 610,
+        "angle_max": 45
+      },
+      "variants": [
+        {
+          "reihe": 1,
+          "T": 8.0,
+          "T1": 6.3,
+          "pressure_factor": 60,
+          "kg": 80.9
+        },
+        {
+          "reihe": 2,
+          "T": 10.0,
+          "T1": 10.0,
+          "pressure_factor": 76,
+          "kg": 101
+        },
+        {
+          "reihe": 3,
+          "T": 12.5,
+          "T1": 11.0,
+          "pressure_factor": 78,
+          "kg": 125
+        },
+        {
+          "reihe": 4,
+          "T": 25.0,
+          "T1": 12.5,
+          "pressure_factor": 80,
+          "kg": 246
+        },
+        {
+          "reihe": 5,
+          "T": null,
+          "T1": null,
+          "pressure_factor": null,
+          "kg": null
+        },
+        {
+          "reihe": 6,
+          "T": null,
+          "T1": null,
+          "pressure_factor": null,
+          "kg": null
+        },
+        {
+          "reihe": 7,
+          "T": null,
+          "T1": null,
+          "pressure_factor": null,
+          "kg": null
+        },
+        {
+          "reihe": 8,
+          "T": null,
+          "T1": null,
+          "pressure_factor": null,
+          "kg": null
+        }
+      ]
+    },
+    {
+      "DN": "900 x 800",
+      "dimensions": {
+        "D": 914.0,
+        "D1": 813.0,
+        "L": 610,
+        "angle_max": 19
+      },
+      "variants": [
+        {
+          "reihe": 1,
+          "T": 10.0,
+          "T1": 8.0,
+          "pressure_factor": 87,
+          "kg": 129
+        },
+        {
+          "reihe": 2,
+          "T": 12.5,
+          "T1": 10.0,
+          "pressure_factor": 93,
+          "kg": 160
+        },
+        {
+          "reihe": 3,
+          "T": 20.0,
+          "T1": 12.5,
+          "pressure_factor": 100,
+          "kg": 254
+        },
+        {
+          "reihe": 4,
+          "T": 25.0,
+          "T1": 25.0,
+          "pressure_factor": 100,
+          "kg": 316
+        },
+        {
+          "reihe": 5,
+          "T": null,
+          "T1": null,
+          "pressure_factor": null,
+          "kg": null
+        },
+        {
+          "reihe": 6,
+          "T": null,
+          "T1": null,
+          "pressure_factor": null,
+          "kg": null
+        },
+        {
+          "reihe": 7,
+          "T": null,
+          "T1": null,
+          "pressure_factor": null,
+          "kg": null
+        },
+        {
+          "reihe": 8,
+          "T": null,
+          "T1": null,
+          "pressure_factor": null,
+          "kg": null
+        }
+      ]
+    },
+    {
+      "DN": "900 x 700",
+      "dimensions": {
+        "D": 914.0,
+        "D1": 711.0,
+        "L": 610,
+        "angle_max": 34
+      },
+      "variants": [
+        {
+          "reihe": 1,
+          "T": 10.0,
+          "T1": 7.1,
+          "pressure_factor": 62,
+          "kg": 122
+        },
+        {
+          "reihe": 2,
+          "T": 12.5,
+          "T1": 10.0,
+          "pressure_factor": 68,
+          "kg": 152
+        },
+        {
+          "reihe": 3,
+          "T": 20.0,
+          "T1": 12.5,
+          "pressure_factor": 79,
+          "kg": 242
+        },
+        {
+          "reihe": 4,
+          "T": 25.0,
+          "T1": 25.0,
+          "pressure_factor": 94,
+          "kg": 300
+        },
+        {
+          "reihe": 5,
+          "T": null,
+          "T1": null,
+          "pressure_factor": null,
+          "kg": null
+        },
+        {
+          "reihe": 6,
+          "T": null,
+          "T1": null,
+          "pressure_factor": null,
+          "kg": null
+        },
+        {
+          "reihe": 7,
+          "T": null,
+          "T1": null,
+          "pressure_factor": null,
+          "kg": null
+        },
+        {
+          "reihe": 8,
+          "T": null,
+          "T1": null,
+          "pressure_factor": null,
+          "kg": null
+        }
+      ]
+    },
+    {
+      "DN": "900 x 600",
+      "dimensions": {
+        "D": 914.0,
+        "D1": 610.0,
+        "L": 610,
+        "angle_max": 45
+      },
+      "variants": [
+        {
+          "reihe": 1,
+          "T": 10.0,
+          "T1": 6.3,
+          "pressure_factor": 52,
+          "kg": 117
+        },
+        {
+          "reihe": 2,
+          "T": 12.5,
+          "T1": 10.0,
+          "pressure_factor": 62,
+          "kg": 145
+        },
+        {
+          "reihe": 3,
+          "T": 20.0,
+          "T1": 12.5,
+          "pressure_factor": 67,
+          "kg": 230
+        },
+        {
+          "reihe": 4,
+          "T": 25.0,
+          "T1": 17.5,
+          "pressure_factor": 74,
+          "kg": 285
+        },
+        {
+          "reihe": 5,
+          "T": null,
+          "T1": null,
+          "pressure_factor": null,
+          "kg": null
+        },
+        {
+          "reihe": 6,
+          "T": null,
+          "T1": null,
+          "pressure_factor": null,
+          "kg": null
+        },
+        {
+          "reihe": 7,
+          "T": null,
+          "T1": null,
+          "pressure_factor": null,
+          "kg": null
+        },
+        {
+          "reihe": 8,
+          "T": null,
+          "T1": null,
+          "pressure_factor": null,
+          "kg": null
+        }
+      ]
+    },
+    {
+      "DN": "1000 x 900",
+      "dimensions": {
+        "D": 1016.0,
+        "D1": 914.0,
+        "L": 610,
+        "angle_max": 19
+      },
+      "variants": [
+        {
+          "reihe": 1,
+          "T": 10.0,
+          "T1": 10.0,
+          "pressure_factor": 93,
+          "kg": 144
+        },
+        {
+          "reihe": 2,
+          "T": 12.5,
+          "T1": 12.5,
+          "pressure_factor": 99,
+          "kg": 180
+        },
+        {
+          "reihe": 3,
+          "T": 20.0,
+          "T1": 20.0,
+          "pressure_factor": 100,
+          "kg": 285
+        },
+        {
+          "reihe": 4,
+          "T": 25.0,
+          "T1": 25.0,
+          "pressure_factor": 100,
+          "kg": 354
+        },
+        {
+          "reihe": 5,
+          "T": null,
+          "T1": null,
+          "pressure_factor": null,
+          "kg": null
+        },
+        {
+          "reihe": 6,
+          "T": null,
+          "T1": null,
+          "pressure_factor": null,
+          "kg": null
+        },
+        {
+          "reihe": 7,
+          "T": null,
+          "T1": null,
+          "pressure_factor": null,
+          "kg": null
+        },
+        {
+          "reihe": 8,
+          "T": null,
+          "T1": null,
+          "pressure_factor": null,
+          "kg": null
+        }
+      ]
+    },
+    {
+      "DN": "1000 x 800",
+      "dimensions": {
+        "D": 1016.0,
+        "D1": 813.0,
+        "L": 610,
+        "angle_max": 34
+      },
+      "variants": [
+        {
+          "reihe": 1,
+          "T": 10.0,
+          "T1": 8.0,
+          "pressure_factor": 58,
+          "kg": 138
+        },
+        {
+          "reihe": 2,
+          "T": 12.5,
+          "T1": 10.0,
+          "pressure_factor": 63,
+          "kg": 182
+        },
+        {
+          "reihe": 3,
+          "T": 20.0,
+          "T1": 12.5,
+          "pressure_factor": 76,
+          "kg": 273
+        },
+        {
+          "reihe": 4,
+          "T": 25.0,
+          "T1": 25.0,
+          "pressure_factor": 93,
+          "kg": 339
+        },
+        {
+          "reihe": 5,
+          "T": null,
+          "T1": null,
+          "pressure_factor": null,
+          "kg": null
+        },
+        {
+          "reihe": 6,
+          "T": null,
+          "T1": null,
+          "pressure_factor": null,
+          "kg": null
+        },
+        {
+          "reihe": 7,
+          "T": null,
+          "T1": null,
+          "pressure_factor": null,
+          "kg": null
+        },
+        {
+          "reihe": 8,
+          "T": null,
+          "T1": null,
+          "pressure_factor": null,
+          "kg": null
+        }
+      ]
+    },
+    {
+      "DN": "1000 x 700",
+      "dimensions": {
+        "D": 1016.0,
+        "D1": 711.0,
+        "L": 610,
+        "angle_max": 45
+      },
+      "variants": [
+        {
+          "reihe": 1,
+          "T": 10.0,
+          "T1": 7.1,
+          "pressure_factor": 49,
+          "kg": 132
+        },
+        {
+          "reihe": 2,
+          "T": 12.5,
+          "T1": 10.0,
+          "pressure_factor": 59,
+          "kg": 165
+        },
+        {
+          "reihe": 3,
+          "T": 20.0,
+          "T1": 12.5,
+          "pressure_factor": 63,
+          "kg": 261
+        },
+        {
+          "reihe": 4,
+          "T": 25.0,
+          "T1": 25.0,
+          "pressure_factor": 82,
+          "kg": 325
+        },
+        {
+          "reihe": 5,
+          "T": null,
+          "T1": null,
+          "pressure_factor": null,
+          "kg": null
+        },
+        {
+          "reihe": 6,
+          "T": null,
+          "T1": null,
+          "pressure_factor": null,
+          "kg": null
+        },
+        {
+          "reihe": 7,
+          "T": null,
+          "T1": null,
+          "pressure_factor": null,
+          "kg": null
+        },
+        {
+          "reihe": 8,
+          "T": null,
+          "T1": null,
+          "pressure_factor": null,
+          "kg": null
+        }
+      ]
+    },
+    {
+      "DN": "1200 x 1000",
+      "dimensions": {
+        "D": 1219.0,
+        "D1": 1016.0,
+        "L": 711,
+        "angle_max": 30
+      },
+      "variants": [
+        {
+          "reihe": 1,
+          "T": 10.0,
+          "T1": 10.0,
+          "pressure_factor": 70,
+          "kg": 196
+        },
+        {
+          "reihe": 2,
+          "T": 12.5,
+          "T1": 12.5,
+          "pressure_factor": 76,
+          "kg": 244
+        },
+        {
+          "reihe": 3,
+          "T": 20.0,
+          "T1": 20.0,
+          "pressure_factor": 89,
+          "kg": 388
+        },
+        {
+          "reihe": 4,
+          "T": 25.0,
+          "T1": 25.0,
+          "pressure_factor": 95,
+          "kg": 483
+        },
+        {
+          "reihe": 5,
+          "T": null,
+          "T1": null,
+          "pressure_factor": null,
+          "kg": null
+        },
+        {
+          "reihe": 6,
+          "T": null,
+          "T1": null,
+          "pressure_factor": null,
+          "kg": null
+        },
+        {
+          "reihe": 7,
+          "T": null,
+          "T1": null,
+          "pressure_factor": null,
+          "kg": null
+        },
+        {
+          "reihe": 8,
+          "T": null,
+          "T1": null,
+          "pressure_factor": null,
+          "kg": null
+        }
+      ]
+    },
+    {
+      "DN": "1200 x 900",
+      "dimensions": {
+        "D": 1219.0,
+        "D1": 914.0,
+        "L": 711,
+        "angle_max": 41
+      },
+      "variants": [
+        {
+          "reihe": 1,
+          "T": 10.0,
+          "T1": 10.0,
+          "pressure_factor": 62,
+          "kg": 189
+        },
+        {
+          "reihe": 2,
+          "T": 12.5,
+          "T1": 12.5,
+          "pressure_factor": 67,
+          "kg": 236
+        },
+        {
+          "reihe": 3,
+          "T": 20.0,
+          "T1": 20.0,
+          "pressure_factor": 80,
+          "kg": 375
+        },
+        {
+          "reihe": 4,
+          "T": 25.0,
+          "T1": 25.0,
+          "pressure_factor": 85,
+          "kg": 467
+        },
+        {
+          "reihe": 5,
+          "T": null,
+          "T1": null,
+          "pressure_factor": null,
+          "kg": null
+        },
+        {
+          "reihe": 6,
+          "T": null,
+          "T1": null,
+          "pressure_factor": null,
+          "kg": null
+        },
+        {
+          "reihe": 7,
+          "T": null,
+          "T1": null,
+          "pressure_factor": null,
+          "kg": null
+        },
+        {
+          "reihe": 8,
+          "T": null,
+          "T1": null,
+          "pressure_factor": null,
+          "kg": null
+        }
+      ]
+    },
+    {
+      "DN": "1200 x 800",
+      "dimensions": {
+        "D": 1219.0,
+        "D1": 813.0,
+        "L": 711,
+        "angle_max": 49
+      },
+      "variants": [
+        {
+          "reihe": 1,
+          "T": 10.0,
+          "T1": 8.0,
+          "pressure_factor": 49,
+          "kg": 183
+        },
+        {
+          "reihe": 2,
+          "T": 12.5,
+          "T1": 10.0,
+          "pressure_factor": 54,
+          "kg": 229
+        },
+        {
+          "reihe": 3,
+          "T": 20.0,
+          "T1": 12.5,
+          "pressure_factor": 56,
+          "kg": 363
+        },
+        {
+          "reihe": 4,
+          "T": 25.0,
+          "T1": 25.0,
+          "pressure_factor": 76,
+          "kg": 451
+        },
+        {
+          "reihe": 5,
+          "T": null,
+          "T1": null,
+          "pressure_factor": null,
+          "kg": null
+        },
+        {
+          "reihe": 6,
+          "T": null,
+          "T1": null,
+          "pressure_factor": null,
+          "kg": null
+        },
+        {
+          "reihe": 7,
+          "T": null,
+          "T1": null,
+          "pressure_factor": null,
+          "kg": null
+        },
+        {
+          "reihe": 8,
+          "T": null,
+          "T1": null,
+          "pressure_factor": null,
+          "kg": null
+        }
+      ]
+    }
+  ]
+}
