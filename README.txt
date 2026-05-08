@@ -1,3 +1,8 @@
+++ Project Description ++
+Automating the retrieval of Engineering Parts such as Pipes, Tees, Caps, Elbows according to DIN Norms. The goal of the development is to harvest a large database of parameters and then implement calculation capabilities directly onto the ap
+ Allowing the complete workflow to be completed in a chat based process instead of over formulas on Excel. 
+
+
 # EN 10253-2 Multi Component Data Assistant
 
 Open `index.html` through a local server or inside Electron. Keep the JSON files in the same folder.
